@@ -1814,6 +1814,2948 @@
     "number": 3
   },
   {
+    "id": "101",
+    "name": "天津津一·PARK · 工业公园与独栋商业更新",
+    "english": "JINYI PARK / Tianjin No.1 Machine Tool Factory Renewal",
+    "location": "天津河东 · 津塘路146号 · 月牙河畔",
+    "country": "中国",
+    "architect": "天津大学设计总院（统筹及前区）；奥雅股份（景观）；厘米制造（2号与7号楼）；ALINE（品牌导视）；其他单体按原资料署名",
+    "year": "2023—2026分期更新与经营",
+    "status": "分期开园与商户陆续营业；含不同阶段规划图",
+    "category": "工业公园商业更新",
+    "tags": [
+      "公园商业",
+      "工业遗存",
+      "独栋商业",
+      "公共草坪",
+      "阅读与演出",
+      "宠物友好"
+    ],
+    "scale": "公园地块总用地79,978.8㎡；2号楼设计发表809㎡；前区项目范围及各商户面积另表说明",
+    "relevance": "天津本地重点参照",
+    "summary": "旧厂房、树林、月牙河与公共草坪共同组成开放园区。日常餐饮咖啡、PAGEONE阅读、工业展馆与市集演出分布在不同建筑及前场，公共步行把它们串联。本次按总图分期、可核建筑和具体运营方式展开，2号楼图纸与后续书店使用分别阅读。",
+    "concepts": [
+      "以工业遗存与原生树林组织公园，分散建筑继续具有独立入口和前场。",
+      "产业、文化、商业和公共休闲分渠道、分时段共同使用园区。",
+      "用日常经营锚点与节庆内容形成不同到访理由。"
+    ],
+    "layout": [
+      "开阔活动草坪与树下小庭院交替，河岸看台提供较安静的停留。",
+      "前区多栋历史建筑通过静水庭院和路径联系，厂史、咖啡与其他用途保持单体差别。",
+      "2号楼以看台、外梯、连廊和平台形成多层公共边缘；单体设计图不替代后续商户内装图。",
+      "规划公园地块、前区设计范围与更大城市更新片区分别读图，楼号对应按证据说明。"
+    ],
+    "lightweight": {
+      "evidence": "可见新增玻璃界面、细钢构、外廊与耐候钢楼梯，景观边缘采用轻盈的标识和停留构件。",
+      "limit": "主要为工业存量修缮及局部重建；2号楼为混凝土框架。可借鉴界面和运营机制，不能作为快速装配轻商业的工期或成本样本。"
+    },
+    "application": [
+      "先留一条人人可用的公共路线：沿海河连续慢行应保持清楚；把小店入口、外摆与共享草坪放在路线侧边，让没有消费的人同样有地方坐与看。",
+      "用两个到访锚点串起中间的小节点：入口采用稳定出品的日常服务，中段选择阅读、手作或轻运动内容，端头安排看水停留。不要按长度平均分配相同店铺。",
+      "把有顶活动空间与草坪成对设置：一个能避雨避风、可收纳移动家具的小场所，旁接公共草坪，可以支撑市集、课程、讲座和节庆切换。规模需按本项目客群测试。",
+      "把门前空间当作经营条件一并设计：停留座席、树荫、看护视线、排队、外摆、骑行和清洁点都需要可用位置。只给商户一个外观盒子，运营仍会回头占用公共路径。"
+    ],
+    "cautions": [
+      "总图分期与实际经营时间分别标明；一期规划图不是2026年全园竣工图。",
+      "未核楼号不强配照片；前区修缮记录与后续商户命名分别说明。",
+      "建筑面积、项目面积、客流和营业额按来源口径阅读，不互相倒算。"
+    ],
+    "sources": [
+      {
+        "id": "O1",
+        "title": "津一·PARK——天津市第一机床总厂改造更新",
+        "publisher": "CREDAWARD / 奥雅设计方项目申报",
+        "url": "https://www.credaward.com/project/364974/",
+        "date": "2025年度参评资料，页面未标发布日期",
+        "evidence": "设计方申报资料与16张高清建成照片；项目状态为该次申报的在建口径，不能替代2026开园现状。"
+      },
+      {
+        "id": "O2",
+        "title": "津一·PARK：工业锈带的重生｜天津市第一机床总厂改造更新",
+        "publisher": "寻美河东官方微博 / 奥雅设计资料转载",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309405103479310909484",
+        "date": "2024-11-22",
+        "evidence": "景观策略、手稿、起步区更新前后与使用场景；不代表整个项目最终竣工。"
+      },
+      {
+        "id": "O3",
+        "title": "工业锈带变身生活秀场｜奥雅天津“自然生长”城市更新主题沙龙",
+        "publisher": "奥雅股份官网",
+        "url": "https://www.aoya-hk.com/index.php?a=show&c=index&catid=9&id=2376&m=content",
+        "date": "2025-06-27",
+        "evidence": "运营前置与B/C端功能协同、设计单位协作及机床工业博物馆说明。"
+      },
+      {
+        "id": "O4",
+        "title": "（河东区）一机床城市更新项目公园地块一期建设工程设计方案总平面图的公布",
+        "publisher": "天津市规划和自然资源局河东分局",
+        "url": "https://ghhzrzy.tj.gov.cn/ywpd/cxgh_43015/ghgb/202312/t20231229_6494577.html",
+        "date": "2023-12-29",
+        "evidence": "官方原始公布图，已下载4678×3309的清晰正文图。是一期申请范围，不是全园2026竣工图。"
+      },
+      {
+        "id": "O5",
+        "title": "天津这片大公园，最新建设进展出炉！",
+        "publisher": "凤凰网房产天津站 / 风财讯搜狐号，转引天津规自局",
+        "url": "https://www.sohu.com/a/917527312_121954537",
+        "date": "2025-07-25",
+        "evidence": "三期变更公布图、分期范围及技术指标的媒体转载。官方三期原页未检索到，转载总图约1077px，细部清晰度有限。"
+      },
+      {
+        "id": "O6",
+        "title": "津一·PARK项目荣获国内外两项殊荣",
+        "publisher": "天津泰达投资控股集团官网",
+        "url": "https://www.teda.com.cn/index/index/news_info/aid/2307.html",
+        "date": "2025-12-18",
+        "evidence": "业主规划/生态更新/奖项陈述。官网文本由网页检索确认，原页图片未下载。"
+      },
+      {
+        "id": "O7",
+        "title": "“津一·PARK”西区对外开放",
+        "publisher": "天津政务网 / 天津日报",
+        "url": "https://www.tj.gov.cn/sy/tpxw/202510/t20251011_7150988.html",
+        "date": "2025-10-11",
+        "evidence": "西区开放时点及保留高敞空间、钢桁架、红砖外墙的官方报道。"
+      },
+      {
+        "id": "O8",
+        "title": "AATU分享丨第一机床总厂城市更新（项目前区）精彩呈现",
+        "publisher": "AATU天大设计总院供稿 / 搜狐城市天津转载",
+        "url": "https://www.sohu.com/a/804286098_620823",
+        "date": "2024-08-28",
+        "evidence": "前区建筑名称、修缮前后、木桁架、传统屋顶、静水庭院和职工之家/幼儿园；是2024阶段的设计及使用说明，未标当前完整商户对应。"
+      },
+      {
+        "id": "B2-GOO",
+        "title": "津一坐标——天津第一机床厂2号楼设计 / 厘米制造",
+        "publisher": "谷德设计网；厘米制造直接供稿",
+        "url": "https://www.gooood.cn/jinyi-coordinate-design-of-building-2-tianjin-first-machine-tool-plant-by-cm-design.htm",
+        "date": "2026-04-01",
+        "scope": "2号楼建筑设计、原场地区位与平立剖；7号楼仅项目参与及旧用途的文字说明。"
+      },
+      {
+        "id": "B2-AD",
+        "title": "天津第一机床厂2号楼 / 厘米制造",
+        "publisher": "ArchDaily；设计方提供项目资料",
+        "url": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "date": "2026-04-02",
+        "scope": "809㎡、2025项目，53张建筑图片及图纸；未包括后续书店内装设计。"
+      },
+      {
+        "id": "B2-PAGEONE",
+        "title": "PAGEONE官方微博列出天津店地址",
+        "publisher": "PAGEONE书店官方微博，经新浪公开展示",
+        "url": "https://www.sina.cn/news/detail/5359427253437885.html",
+        "date": "2026-10-29",
+        "scope": "只用于核对天津门店在津塘路146号2号楼及该日期营业时间；正文明确视频是北京坊店，不能借用作天津室内图。"
+      },
+      {
+        "id": "B2-IEC",
+        "title": "津一坐标——天津第一机床厂2号楼设计",
+        "publisher": "IEC国际环境建设；发布人厘米制造",
+        "url": "https://www.iecwww.com/cases/article/3869",
+        "date": "2026-04-01",
+        "scope": "交叉核对设计/施工图/施工/景观团队和2024-05至2025-12项目时间。"
+      },
+      {
+        "id": "BO01",
+        "title": "天津津一Park视觉升级：让齿轮和命运转动起来",
+        "publisher": "Aline Studio／数英设计团队供稿",
+        "url": "https://www.digitaling.com/projects/359029.html",
+        "evidence": "设计方供稿",
+        "date": "页面显示2025-10；图像服务器为后续缓存"
+      },
+      {
+        "id": "BO02",
+        "title": "城市的厚度 宜居的高度——泰达城投的转型之道与运营之思",
+        "publisher": "天津日报／天津经济技术开发区官网",
+        "url": "https://www.teda.gov.cn/contents/636/112672.html",
+        "evidence": "官方转载报道",
+        "date": "2026-07-28"
+      },
+      {
+        "id": "BO03",
+        "title": "天津通过城市更新，打造多处消费新场景，提升生活服务业品质",
+        "publisher": "天津海河传媒中心广播新闻部／北方网",
+        "url": "https://news.enorth.com.cn/system/2026/06/20/059503440.shtml",
+        "evidence": "记者实地采访及店长、园区营销负责人采访",
+        "date": "2026-06-20"
+      },
+      {
+        "id": "BO04",
+        "title": "津一·PARK再添烟火气 第四代住宅落地二号桥",
+        "publisher": "今晚报",
+        "url": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-03/17/content_87647_3230248.htm",
+        "evidence": "记者实地采访",
+        "date": "2026-03-17"
+      },
+      {
+        "id": "BO05",
+        "title": "公园、书店、咖啡香……天津这座老厂房，华丽“变身”！",
+        "publisher": "津云／川观新闻转载",
+        "url": "https://cbgc.scol.com.cn/news/7882683",
+        "evidence": "津云实地报道，部分素材由河东区提供",
+        "date": "2026-08-24"
+      },
+      {
+        "id": "P01",
+        "title": "一尺花园苏联专家楼旧址店：品牌项目说明",
+        "publisher": "一尺之间／一尺花园",
+        "url": "https://www.yichizhijian.com/NewsDetail/6165387.html"
+      },
+      {
+        "id": "P02",
+        "title": "PAGEONE首店与四层阅读场景",
+        "publisher": "今晚报",
+        "url": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-08/13/content_87650_3734656.htm"
+      },
+      {
+        "id": "P03",
+        "title": "PAGEONE平日与周末的分时使用",
+        "publisher": "天津日报",
+        "url": "https://epaper.tianjinwe.com/tjrb/h5/html5/2026-09/15/content_143100_3839777.htm"
+      },
+      {
+        "id": "P06",
+        "title": "老厂房的手创市集：14号楼",
+        "publisher": "天津日报",
+        "url": "https://epaper.tianjinwe.com/tjrb/h5/html5/2026-04/02/content_143098_3295606.htm"
+      },
+      {
+        "id": "P08",
+        "title": "工业风咖啡店与厂房保留",
+        "publisher": "天津河东融媒官方澎湃号",
+        "url": "https://m.thepaper.cn/newsDetail_forward_29263758"
+      },
+      {
+        "id": "P10",
+        "title": "《铸剑》天津场活动：4F、地址及免费／书票／饮品票选项",
+        "publisher": "湖南文艺出版社／中南数智阅读平台",
+        "url": "https://znyd.rednet.cn/content/646054/56/16361422.html",
+        "date": "2026-10-13"
+      }
+    ],
+    "planStatus": {
+      "site": "有官方一期设计公布图、三期转载图与分期范围",
+      "floor": "有2号楼1—4层、屋顶、立面、剖面与节点；无全园各商户内装图"
+    },
+    "planNote": "整体与单栋图纸分别归档；2号楼完整建筑图不等同PAGEONE现状内装。",
+    "images": [
+      {
+        "file": "assets/101_jinyi/overall/overall_01.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/Zhuan_Ji_Shou_Tu-1.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "起步区与厂区整体斜俯瞰：旧厂房、草坪与后部大跨车间的关系。",
+        "kind": "鸟瞰实景",
+        "node": "起步区/厂区整体；单栋楼号未由原图标出",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 2199,
+        "height": 1470,
+        "sha256": "595f530b10526187e26be9bb6b7a7cde4d3fe26c2936e9ad84a955b482fb264c",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_01.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_02.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/1-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "月湾公园北入口俯瞰：四个拱形门架与弧形台地共同构成到达界面。",
+        "kind": "鸟瞰实景",
+        "node": "月湾公园北入口与峥嵘台地",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "38e5cbb6d97350fce5fcedeb56ee7b957be1376d79b2a65a9afcb760d44a5040",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_02.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_03.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/2-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "从园内看北入口：新置拱形门架保留较通透的边界，步道穿过林下空间。",
+        "kind": "景观实景",
+        "node": "月湾公园北入口",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "bedf8b9663ad90d3126c5ef9514d28a94c7d47e84caee91f19b2d396641aa5c7",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_03.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_04.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/4-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "台地边缘的曲线步道、保留树木与独立小建筑；景观和室内活动保持视线联系。",
+        "kind": "景观实景",
+        "node": "峥嵘台地周边；背景建筑楼号未核",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "9860f19b568b7798ed41c546d3ee9264299bf5030d74a7b319a2f59108831b4d",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_04.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_05.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/6-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "峥嵘台地使用实景：弧形预制坐凳形成可坐、可看、可停留的草坪边缘。",
+        "kind": "景观实景",
+        "node": "峥嵘台地",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "6b25a9c305288a688e669306543654a17290e56f5d3509728c64d46f23ef2251",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_05.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_06.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/8-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "道路与停车带垂直航拍：旧厂房边临时停车、过街标线与林下活动空间相邻。",
+        "kind": "鸟瞰实景",
+        "node": "Citylink前场与停车；图中为当时配置，不视为最终车位方案",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "e0143262eb5b37195a9ff7806a65691f2f07cec8e91e0d168e5b7c36564bd8ab",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_06.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_07.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/10-3000x1828.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "龙门吊、圆形活动草坪和厂房外摆平台的垂直关系；保留工业构筑物成为活动背景。",
+        "kind": "鸟瞰实景",
+        "node": "城市营地 / 龙门吊草坪",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 1828,
+        "sha256": "c165e92ef10040a9510a2c71f2b6a710c93486b530483d1a5948f53026db27a1",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_07.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_08.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/12-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "两层红砖建筑、公共道路与树下绿地的整体外观；此组照片未标明该栋楼号。",
+        "kind": "建筑实景",
+        "node": "楼号未核；不能仅按立面形态指认为2号或7号",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "5e06aed323b859d0a46bc189eb37b6af7da6b8e6297d0dfebf9a4286b24f8e14",
+        "groups": [
+          "landscape"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/overall_08.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_09.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/13-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "沿保留乔木展开的连续步道：旧厂房、树列与草地保持彼此可见。",
+        "kind": "景观实景",
+        "node": "林下步道；具体楼号未核",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "2625261e16ca25475d46bbaefd035524a43ae58506afbc9a27398c8925a2ae1c",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_09.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_10.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/15-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "树下草坪的非消费停留：可平躺休息，身后的厂房与围挡仍呈现分期更新状态。",
+        "kind": "景观实景",
+        "node": "公共草坪",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "c0a43309249be5902ae252e525657388d492f14c97568631a71cef306866b948",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_10.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_11.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/16-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "林下草坪的亲子及宠物共处场景；不据此推断设施收费或专业培训经营。",
+        "kind": "景观实景",
+        "node": "公共草坪 / 宠物友好使用场景",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "a4011c719459550a9e83d40cd36692706a3e0ca603fc8bc4da04b530a4861f4a",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_11.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_12.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/18-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "秘境花园俯瞰：曲线园路穿行于保留树木和原有建筑之间，形成多层次小庭院。",
+        "kind": "鸟瞰实景",
+        "node": "秘境花园",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "e2a1059afda3f33588c03204495c9cad5490c37886abb0f6f46919b91918e9a0",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_12.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_13.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/19-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "落日看台临河界面：窄长木平台与吧台式停留边缘面向月牙河。",
+        "kind": "景观实景",
+        "node": "落日看台 / 月牙河",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "f098884a814702fa74b6a4f03a1b98a3b9653f429bc7a4d34b1425cc537e7398",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_13.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_14.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/20-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "龙门吊下的连续坐席与树荫：构筑物没有被围成单独展示岛，而与日常停留相接。",
+        "kind": "景观实景",
+        "node": "城市营地 / 龙门吊草坪",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "8ab1aaa3672eb2bb92f1b2aab6f171d7ef1d014654ded032cb7bbd448768525d",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_14.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_15.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/22-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "旧厂区道路与两侧长坐凳：保留树列为慢行提供遮荫，前方厂房与更新围挡构成空间终点。",
+        "kind": "景观实景",
+        "node": "厂区慢行轴线；具体楼号未核",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "dd35c0020093d4ff4b9a375b744af292494b50a06db3ae1058860dba22d09e4e",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_15.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_16.jpg",
+        "sourceUrl": "https://www.credaward.com/wp-content/uploads/application_project/327712/24-3000x2000.jpg",
+        "pageUrl": "https://www.credaward.com/project/364974/",
+        "credit": "奥雅股份 / CREDAWARD项目申报资料；未见独立摄影署名",
+        "caption": "原有狭长建筑之间的院落垂直航拍：以步道和草坪保留树木，连接两侧建筑入口。",
+        "kind": "鸟瞰实景",
+        "node": "工业建筑间的庭院；具体楼号未核",
+        "buildingNumber": null,
+        "sourceId": "O1",
+        "scope": "设计方申报实景，主要为起步区更新阶段；不作为2026全园商户现状",
+        "width": 3000,
+        "height": 2000,
+        "sha256": "ae8a3ecf86135f4748fff7fa96ac9cc6ced6d5f945af49f52a4f9f25460cb88a",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_16.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_04_wb.jpg",
+        "sourceUrl": "https://wx1.sinaimg.cn/large/008i1hiXly4hvuviss1c3j30u00k0jvv.jpg",
+        "pageUrl": "https://weibo.com/ttarticle/p/show?id=2309405103479310909484",
+        "credit": "奥雅设计资料 / 寻美河东官方微博转载",
+        "caption": "更新前的整体环境：起步区工地、旧厂房与周边城市界面；与更新后鸟瞰对照阅读。",
+        "kind": "更新前实景",
+        "node": "起步区/厂区整体",
+        "buildingNumber": null,
+        "sourceId": "O2",
+        "scope": "2024年发布的景观资料与使用照片",
+        "width": 1080,
+        "height": 720,
+        "sha256": "fd3eba9485ae79ce1128ef52271f0b8de502992e090c1d92b5fa8a02ef490cbf",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_04_wb.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_07_wb.jpg",
+        "sourceUrl": "https://wx1.sinaimg.cn/large/008i1hiXly4hvuviyjbupj30u00ehqt1.jpg",
+        "pageUrl": "https://weibo.com/ttarticle/p/show?id=2309405103479310909484",
+        "credit": "奥雅设计资料 / 寻美河东官方微博转载",
+        "caption": "李宝章早期总平面推演手稿：表达景观策划与空间构思，不能作为精确定位、楼号或竣工依据。",
+        "kind": "设计推演手稿",
+        "node": "全园空间构思，非正式总平面",
+        "buildingNumber": null,
+        "sourceId": "O2",
+        "scope": "2024年发布的景观资料与使用照片",
+        "width": 1080,
+        "height": 521,
+        "sha256": "cecafac0101383b1ba4be6e657c12f383a9c645eed9bc4d6df9ea560532eb74d",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_07_wb.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_25_wb.jpg",
+        "sourceUrl": "https://wx1.sinaimg.cn/large/008i1hiXly4hvuvjt6yqjj30u00k0b29.jpg",
+        "pageUrl": "https://weibo.com/ttarticle/p/show?id=2309405103479310909484",
+        "credit": "奥雅设计资料 / 寻美河东官方微博转载",
+        "caption": "龙门吊下的演出场景：临时舞台、屏幕与活动观众共用草坪前场；演出频率与收费制度未由图片证明。",
+        "kind": "运营活动实景",
+        "node": "城市营地 / 龙门吊草坪",
+        "buildingNumber": null,
+        "sourceId": "O2",
+        "scope": "2024年发布的景观资料与使用照片",
+        "width": 1080,
+        "height": 720,
+        "sha256": "4b9b1ed95bb626d2dc0c37a955c44fa832105e859a4ee3643b7f370e8a9984b8",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/overall_25_wb.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/overall_36_wb.jpg",
+        "sourceUrl": "https://wx1.sinaimg.cn/large/008i1hiXly4hvuvk8acofj30u00k0kjl.jpg",
+        "pageUrl": "https://weibo.com/ttarticle/p/show?id=2309405103479310909484",
+        "credit": "奥雅设计资料 / 寻美河东官方微博转载",
+        "caption": "草坪、龙门吊与原有厂房的整体斜俯瞰，观察公共活动与建筑门前空间的尺度关系。",
+        "kind": "鸟瞰实景",
+        "node": "城市营地及周边建筑",
+        "buildingNumber": null,
+        "sourceId": "O2",
+        "scope": "2024年发布的景观资料与使用照片",
+        "width": 1080,
+        "height": 720,
+        "sha256": "f2753c42437bea4245379a315226f3c55d92309199fc05a7ebff9964ea295a62",
+        "groups": [
+          "landscape",
+          "macro"
+        ],
+        "thumb": "thumbs/101/overall_36_wb.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/plan_phase1_20231229.jpg",
+        "sourceUrl": "https://ghhzrzy.tj.gov.cn/ywpd/cxgh_43015/ghgb/202312/W020231229361974891696.jpg",
+        "pageUrl": "https://ghhzrzy.tj.gov.cn/ywpd/cxgh_43015/ghgb/202312/t20231229_6494577.html",
+        "credit": "天津市规划和自然资源局河东分局公布资料",
+        "caption": "2023-12-29官方一期规划总平公布图：保留分期斜线、总用地边界及原图技术指标，不能当作2026全园竣工总图。",
+        "kind": "设计总平面",
+        "node": "公园地块一期申报范围",
+        "buildingNumber": null,
+        "sourceId": "O4",
+        "scope": "2023一期公布图",
+        "width": 4678,
+        "height": 3309,
+        "sha256": "40a59a4b9af2ce82f28ef2dd04edf77f2c83ed061329a27c2ab1bf7ae4cd4ad0",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/plan_phase1_20231229.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/plan_phase3_2_20250725.jpg",
+        "sourceUrl": "https://q0.itc.cn/q_70/images03/20250725/514d9f4c67d94f98bcc14237d83d5d7f.jpeg",
+        "pageUrl": "https://www.sohu.com/a/917527312_121954537",
+        "credit": "天津规自局原公布资料 / 风财讯搜狐号转载",
+        "caption": "2025-07-25三期变更规划总平面媒体转载：能读总体边界及多栋建筑配置，原转载约1077px，微小楼号须结合其他原图复核。",
+        "kind": "设计总平面",
+        "node": "公园地块三期公布图媒体转载",
+        "buildingNumber": null,
+        "sourceId": "O5",
+        "scope": "2025三期变更媒体转载；官方原页未检索到",
+        "width": 1077,
+        "height": 758,
+        "sha256": "c77a55b8abfabf6872f8879306c67331c78d0d8a8fded9d42c500ec4db01a049",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/plan_phase3_2_20250725.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/plan_phase3_3_20250725.jpg",
+        "sourceUrl": "https://q9.itc.cn/q_70/images03/20250725/1ba4eeee0a77475fa505907c4440a18c.jpeg",
+        "pageUrl": "https://www.sohu.com/a/917527312_121954537",
+        "credit": "天津规自局原公布资料 / 风财讯搜狐号转载",
+        "caption": "2025分期范围示意：一期、二期已发证区域与三期A/B/C范围分别表达，避免把起步区与全园范围混读。",
+        "kind": "分期范围图",
+        "node": "公园地块分期范围",
+        "buildingNumber": null,
+        "sourceId": "O5",
+        "scope": "2025三期变更媒体转载；官方原页未检索到",
+        "width": 732,
+        "height": 687,
+        "sha256": "b192d0794f084989a0e5576b677ded5173cb382dedc3a2238f98a02a8204deaf",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/plan_phase3_3_20250725.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/plan_phase3_4_20250725.jpg",
+        "sourceUrl": "https://q8.itc.cn/q_70/images03/20250725/a7179ac5ee2f4cf29c233eff23dffe30.jpeg",
+        "pageUrl": "https://www.sohu.com/a/917527312_121954537",
+        "credit": "天津规自局原公布资料 / 风财讯搜狐号转载",
+        "caption": "2025技术指标表局部：区分全地块总指标、已发证指标和本次三期申报指标；不是全园全部建筑的面积总账。",
+        "kind": "技术指标表",
+        "node": "公园地块三期指标口径",
+        "buildingNumber": null,
+        "sourceId": "O5",
+        "scope": "2025三期变更媒体转载；官方原页未检索到",
+        "width": 788,
+        "height": 588,
+        "sha256": "aed1c03d770d25ca50ef5bb96fd4afe695348077962ff3350785344efc345fc5",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/plan_phase3_4_20250725.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_00.jpeg",
+        "sourceUrl": "https://q4.itc.cn/q_70/images01/20240828/6f25d77d37394c83a7c743b5c906522e.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "前区整体：原经营楼与原专家楼会议室共同围合静水庭院，观察楼宇与前场的关系。",
+        "kind": "建筑实景",
+        "node": "前区·经营楼 / 会议室庭院",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1365,
+        "height": 909,
+        "sha256": "c2b3638cec902b70ab62c63d317a5398405bf3cfd9b38b6d2326231ca64a5422",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_00.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_02.jpeg",
+        "sourceUrl": "https://q4.itc.cn/q_70/images01/20240828/3d49f9919db54dbcbb53b895dca94d5a.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "AATU2024称“苏联专家楼”的修缮外观：传统坡屋顶、柱廊和简化装饰；不据此认定2026商户品牌。",
+        "kind": "建筑实景",
+        "node": "前区·原苏联专家楼",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1365,
+        "height": 915,
+        "sha256": "e8d02edbcb9e30e3a4b110fc599f58e7b1ecd0b2c95b11f3bdcc20b04290d689",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_02.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_03.jpeg",
+        "sourceUrl": "https://q2.itc.cn/images01/20240828/746a15454e13477e9fca998e12677e62.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "前区静水庭院与单层红砖建筑：水面成为多栋历史建筑之间的共享视觉中心。",
+        "kind": "建筑实景",
+        "node": "前区·静水庭院",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1080,
+        "height": 721,
+        "sha256": "8e38a6c1919db5ad3ed6361603d01c6d9363eeccfb4835b42456056427220782",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_03.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_06.jpeg",
+        "sourceUrl": "https://q0.itc.cn/q_70/images01/20240828/3ba18e0e9be9425480b6c0ec8315705d.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "会议室改成厂史馆的内部：保留窗洞与工位式陈设，将档案、图纸和旧物组合成可进入的展示空间。",
+        "kind": "建筑内景",
+        "node": "前区·原专家楼会议室 / 厂史馆",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1361,
+        "height": 763,
+        "sha256": "e82a6b0db8c87d47178be870839b558f61eecd9fe1ffb734bba5106ac934067a",
+        "groups": [
+          "front"
+        ],
+        "thumb": "thumbs/101/front_aatu_06.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_08.jpeg",
+        "sourceUrl": "https://q1.itc.cn/q_70/images01/20240828/8107f8b2797a48778f5792db16284741.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "厂史馆的工业记忆内容：历史影像与旧物共同展示生产者故事，不是另一个商业单体。",
+        "kind": "建筑内景",
+        "node": "前区·厂史馆",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1365,
+        "height": 767,
+        "sha256": "106b95614f5af6c6d40e3816950c4fe48e67427c8eed96278b08c694bbf1e353",
+        "groups": [
+          "front"
+        ],
+        "thumb": "thumbs/101/front_aatu_08.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_14.jpeg",
+        "sourceUrl": "https://q9.itc.cn/q_70/images01/20240828/904822c464aa4bc59b8e81034c771a73.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "AATU2024咖啡馆内景：小尺度卡座与书架组合，让旧建筑内部保留适合停留的边角。",
+        "kind": "建筑内景",
+        "node": "前区·原专家楼咖啡馆",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1359,
+        "height": 765,
+        "sha256": "4a8d4cdadcef128288f0dee16d74a4736c3b2931b972682e2ea98bd1150efa7e",
+        "groups": [
+          "front"
+        ],
+        "thumb": "thumbs/101/front_aatu_14.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_16.jpeg",
+        "sourceUrl": "https://q0.itc.cn/q_70/images01/20240828/a9f5a572f17941e5a4a31ab86d63c36c.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "AATU2024咖啡馆内景：齿轮等历史构件成为局部展示和空间分隔，并与书架、座席结合。",
+        "kind": "建筑内景",
+        "node": "前区·原专家楼咖啡馆",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1357,
+        "height": 771,
+        "sha256": "5c07d6c0bc0ff96d1f60222751cca704510c7515d4fe6d615042a795d3b9e484",
+        "groups": [
+          "front"
+        ],
+        "thumb": "thumbs/101/front_aatu_16.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_21.jpeg",
+        "sourceUrl": "https://q9.itc.cn/q_70/images01/20240828/017aad83fa9b45a4b43b08aa18f85183.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "原职工之家修缮后外观与前场：来源只说明修缮提升，不据此推定2026经营用途。",
+        "kind": "建筑实景",
+        "node": "前区·原职工之家",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1080,
+        "height": 721,
+        "sha256": "06dad5a93c568c0b303e1920e9bc61f30e466a0af424a437eca3680246be7eab",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_21.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_23.jpeg",
+        "sourceUrl": "https://q1.itc.cn/images01/20240828/671df185eb93468a8db31d540e6fca10.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "原幼儿园修缮后外观：折转长楼、连续廊道与前庭树林；现行招商及经营用途未由来源确认。",
+        "kind": "建筑实景",
+        "node": "前区·原幼儿园",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1080,
+        "height": 721,
+        "sha256": "cff0d219c59abc3644aec5ee1d7985f9a0609966022e51cfbe5da6049600a24f",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_23.webp"
+      },
+      {
+        "file": "assets/101_jinyi/overall/front_aatu_25.jpeg",
+        "sourceUrl": "https://q2.itc.cn/images01/20240828/e7d2634bcb2d48e8aaae9041150d1384.jpeg",
+        "pageUrl": "https://www.sohu.com/a/804286098_620823",
+        "credit": "AATU天大设计总院项目资料 / 搜狐城市天津转载；未见独立摄影署名",
+        "caption": "前区柱廊细部：砖柱、装饰纹样与连续门窗构成半室外过渡；原文未将该图单独标注到楼号。",
+        "kind": "建筑实景",
+        "node": "前区·柱廊细部",
+        "buildingNumber": null,
+        "sourceId": "O8",
+        "scope": "2024前区改造图，保留原文命名；不套用当前品牌或楼号",
+        "width": 1080,
+        "height": 1439,
+        "sha256": "3d5dbb4cf483416081537cfeaa27bfae26d0a10285251c9b4eb7ddb7dee443a8",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/front_aatu_25.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85d/bacd/cd01/89fe/bee2/large_jpg/jinyi-landmark-cm-design_5.jpg?1774966906",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1201,
+        "file": "assets/101_jinyi/buildings/b2_ad_00.jpg",
+        "sha256": "eca19241061583ab14f0d81511bfdf62af1eb46c77e0d6bf0154b54f8017d884",
+        "caption": "2号楼：混凝土框架、玻璃商业体块与外置耐候钢折梯",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_00.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85d/03fa/f101/8996/a037/large_jpg/jinyi-landmark-cm-design_3.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2401,
+        "file": "assets/101_jinyi/buildings/b2_ad_01.jpg",
+        "sha256": "c11ecfe654cd2fd29107bbfd3b4227dc9dac1714fe67ff5c106bd69081dab8fb",
+        "caption": "2号楼与保留龙门吊的相邻关系；建筑周边保留大树",
+        "kind": "鸟瞰实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "总图鸟瞰",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_01.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85f/8ecf/0f01/7f99/d90a/large_jpg/jinyi-landmark-cm-design_7.jpg?1774966896",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_02.jpg",
+        "sha256": "90642554382fd1a46b59c69d75663197f32cb53deafd70debed1487cfda88ef0",
+        "caption": "弧形挑出露台、通透立面与树冠的关系",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_02.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d862/03fa/f114/b4f1/249e/large_jpg/jinyi-landmark-cm-design_16.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2636,
+        "file": "assets/101_jinyi/buildings/b2_ad_03.jpg",
+        "sha256": "7d5ab67f8c31d8547a4346b7aa0b5a35b48928c8e5ca0f82ed75e907effcea35",
+        "caption": "折梯、镂空框架与实体商业体块形成层次",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_03.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d857/8ecf/0f01/7f99/d908/large_jpg/jinyi-landmark-cm-design_11.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "金伟琦",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2700,
+        "file": "assets/101_jinyi/buildings/b2_ad_04.jpg",
+        "sha256": "44d56ded49f76e699ac10ff8c96dacd84fc73c5473109c326bc77a3a6b844475",
+        "caption": "临水一侧以玻璃和外廊打开视线，外侧保留树木",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_04.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85c/bacd/cd1c/cb6a/0e97/large_jpg/jinyi-landmark-cm-design_6.jpg?1774966886",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1201,
+        "file": "assets/101_jinyi/buildings/b2_ad_05.jpg",
+        "sha256": "7aaa6b04834ead729a4ebd1253f2eaf002196512d095652a72638f1c777ba387",
+        "caption": "建筑交付阶段的广场、建筑和龙门吊；不是书店开业现场",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_05.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85f/bacd/cd01/89fe/bee3/large_jpg/jinyi-landmark-cm-design_4.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_06.jpg",
+        "sha256": "be45561d6f380d29512c64d3fcccfbcde2eb74fa5311a39ec03da207a95da962",
+        "caption": "竖向混凝土框架与原有乔木的尺度关系",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_06.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d855/03fa/f101/8996/a031/large_jpg/jinyi-landmark-cm-design_1.jpg?1774966895",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_08.jpg",
+        "sha256": "7e64261defffb1467fa5070782b927a2ff46cd30c09207f5fa43bfcdfcb1f92d",
+        "caption": "冬季外观：公共广场与独立坐标建筑相接",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_08.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85f/03fa/f101/8996/a039/large_jpg/jinyi-landmark-cm-design_11.jpg?1774966913",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1201,
+        "file": "assets/101_jinyi/buildings/b2_ad_09.jpg",
+        "sha256": "36c7b19b98dc829b8096afdd701c98b4850c6a87ccf795c25d749981a928b1a6",
+        "caption": "骑楼灰空间与阶梯看台，门前仍可穿行和停留",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_09.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d854/03fa/f101/8996/a02f/large_jpg/jinyi-landmark-cm-design_10.jpg?1774966877",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_10.jpg",
+        "sha256": "42a89b41441b9a3add676a3e4fdf5451367e9e5c5933ba1133234c588731eae8",
+        "caption": "2号楼与南侧低矮既有厂房并置；两者没有合成同一大体量",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_10.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85d/8ecf/0f01/7f99/d909/large_jpg/jinyi-landmark-cm-design_10.jpg?1774966892",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_12.jpg",
+        "sha256": "f6f28e9803af50fbc4c87227f139f999a7432b19528b17f3de873ab5b5def9ab",
+        "caption": "外置折梯入口和地面阶梯座位相接",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_12.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85c/03fa/f101/8996/a035/large_jpg/jinyi-landmark-cm-design_1.jpg?1774966892",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2546,
+        "file": "assets/101_jinyi/buildings/b2_ad_13.jpg",
+        "sha256": "09760f30a93f961d5a32282bcadc0e83564ab0ecce6527d264f5b507f105e817",
+        "caption": "城市远景中识别2号楼；此图不能代替全园楼号导览",
+        "kind": "鸟瞰实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "总图鸟瞰",
+        "groups": [
+          "b2",
+          "macro"
+        ],
+        "thumb": "thumbs/101/b2_ad_13.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d854/8ecf/0f01/7f99/d906/large_jpg/jinyi-landmark-cm-design_12.jpg?1774966887",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2700,
+        "file": "assets/101_jinyi/buildings/b2_ad_15.jpg",
+        "sha256": "c9941ba4bf87c07be397c75b3109989e1968d9ca4caa70a11bba8284addbd9d1",
+        "caption": "连续圆柱限定外廊，商业玻璃界面位于内侧",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_15.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d863/03fa/f101/8996/a03c/large_jpg/jinyi-landmark-cm-design_13.jpg?1774966913",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_16.jpg",
+        "sha256": "ab963aef4e4992337ef1ed65ad55e5cdf6e0e29f5366b123938231c189a4a766",
+        "caption": "喇叭形楼梯入口与可坐台阶，成为沿途停顿的位置",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_16.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d854/03fa/f101/8996/a030/large_jpg/jinyi-landmark-cm-design_13.jpg?1774966882",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_17.jpg",
+        "sha256": "d1414356096e33733ce2050383c2ed6d09f8b8e7d9e30fe91d354fb212609032",
+        "caption": "楼层外廊连接平台，内侧商业空间与室外路径分开",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_17.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85e/03fa/f101/8996/a038/large_jpg/jinyi-landmark-cm-design_14.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_18.jpg",
+        "sha256": "72f4fc5335f203718a03415ef5ca4b89cc027503b89118e6ff0006542f8a0822",
+        "caption": "外置折梯贴近林下步道，上楼与散步产生联系",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_18.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d863/bacd/cd01/89fe/bee5/large_jpg/jinyi-landmark-cm-design_15.jpg?1774966898",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 2699,
+        "file": "assets/101_jinyi/buildings/b2_ad_19.jpg",
+        "sha256": "a50adbdc61d37ad49aec869642722debad0c85e2e782acf19cac147f91895b77",
+        "caption": "挑高骑楼从框架间穿过，视线向广场和树林延伸",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_19.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d85c/03fa/f101/8996/a034/large_jpg/jinyi-landmark-cm-design_2.jpg?1774966887",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1350,
+        "file": "assets/101_jinyi/buildings/b2_ad_22.jpg",
+        "sha256": "d48702657d792073bc0ab506e707597826ee5e38c7516bcd00c4f1294942b848",
+        "caption": "城市鸟瞰：2号楼位于月牙河与园区既有厂房的交接处",
+        "kind": "鸟瞰实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "总图鸟瞰",
+        "groups": [
+          "b2",
+          "macro"
+        ],
+        "thumb": "thumbs/101/b2_ad_22.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d860/03fa/f101/8996/a03a/large_jpg/jinyi-landmark-cm-design_20.jpg?1774966921",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_24.jpg",
+        "sha256": "6f46602fa7f33b2aa7b6e708f255fa9af0f712dd9841e7e7e355971f6af05b51",
+        "caption": "园区鸟瞰：低层既有厂房、树林和开放场地穿插；未逐栋标租户",
+        "kind": "鸟瞰实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "总图鸟瞰",
+        "groups": [
+          "b2",
+          "macro"
+        ],
+        "thumb": "thumbs/101/b2_ad_24.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d856/bacd/cd01/89fe/bee1/large_jpg/jinyi-landmark-cm-design_8.jpg?1774966884",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "刘国威 / 金伟琦；单张署名详见原发布页",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_31.jpg",
+        "sha256": "19fd55ab2b8a78637a8447381b742e040cded40e124a1cf904104534d4148e1f",
+        "caption": "临水视角看通透商业体块、外露折梯与上部框架",
+        "kind": "建筑实景",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "建筑外观",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_31.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/bacd/cd1c/cb6a/0e9a/large_jpg/2shou-ceng-ping-mian-c-li-mi-zhi-zao-2.jpg?1774966926",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2829,
+        "file": "assets/101_jinyi/buildings/b2_ad_34.jpg",
+        "sha256": "04790e30a54c0fbcb2ecc49feccae1c7e8fc7d57f5125005e1035e6c7705f5e3",
+        "caption": "2号楼一层原设计平面：商业空间、骑楼、看台、记忆之路、月牙河和龙门吊",
+        "kind": "建筑平面",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_34.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/8ecf/0f01/7f99/d90d/large_jpg/3er-ceng-ping-mian-c-li-mi-zhi-zao-3.jpg?1774966922",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2829,
+        "file": "assets/101_jinyi/buildings/b2_ad_35.jpg",
+        "sha256": "10e50db7deefe40e0a75ed0727cf2e139d95076ea31338b0b0e863fc8aaa35ad",
+        "caption": "2号楼二层原设计平面：局部商业、外廊、看台与挑空；非书店内装平面",
+        "kind": "建筑平面",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_35.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/03fa/f114/b4f1/249f/large_jpg/4san-ceng-ping-mian-c-li-mi-zhi-zao-4.jpg?1774966923",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2829,
+        "file": "assets/101_jinyi/buildings/b2_ad_36.jpg",
+        "sha256": "78031ba99116f7fa05faf0586cdfd54dfd9bf570844e50d374edc46d417bf9a8",
+        "caption": "2号楼三层原设计平面：商业空间、西侧弧形露台及南北公共交通",
+        "kind": "建筑平面",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_36.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/8ecf/0f01/7f99/d90e/large_jpg/5si-ceng-ping-mian-c-li-mi-zhi-zao-5.jpg?1774966923",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2829,
+        "file": "assets/101_jinyi/buildings/b2_ad_37.jpg",
+        "sha256": "5ec697ddc6fc67b9582275873e5d7c4a4bebc2e6c97388cc65a87fa42e5cce2c",
+        "caption": "2号楼四层原设计平面：原图仅标室外平台、疏散楼梯和电梯厅，不据此还原后续书店四层",
+        "kind": "建筑平面",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_37.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86e/bacd/cd01/89fe/bee7/large_jpg/6wu-ding-ceng-ping-mian-c-li-mi-zhi-zao-6.jpg?1774966923",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2829,
+        "file": "assets/101_jinyi/buildings/b2_ad_38.jpg",
+        "sha256": "e463dbbef095a9e78ca5d1dd42834fb0f4d18325c2fd9bcfe943b7537f36c1df",
+        "caption": "2号楼屋顶层原设计平面：活动场地、双楼梯、电梯厅、室外平台与圆形天窗",
+        "kind": "建筑平面",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_38.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/bacd/cd01/89fe/bee6/large_jpg/9pou-mian-tu-c-li-mi-zhi-zao-9.jpg?1774966907",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1262,
+        "file": "assets/101_jinyi/buildings/b2_ad_39.jpg",
+        "sha256": "1a21e3f6fbfc95fd6889516e0adb636c00225e2d6f5255414a5a23c6b02951ea",
+        "caption": "2号楼原设计双剖面：商业盒子、挑空、外廊和屋顶平台的层高关系",
+        "kind": "剖面图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_39.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/8ecf/0f01/7f99/d910/large_jpg/7li-mian-tu-01-c-li-mi-zhi-zao-7.jpg?1774966912",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1262,
+        "file": "assets/101_jinyi/buildings/b2_ad_40.jpg",
+        "sha256": "77e392a768432a3a32f67eb6d5c73e6ab74c5a25af050906dd10f713314e932a",
+        "caption": "2号楼C/D立面：混凝土框架、透明界面与外露折梯",
+        "kind": "立面图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_40.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/8ecf/0f09/47c0/706d/large_jpg/8li-mian-tu-02-c-li-mi-zhi-zao-8.jpg?1774966908",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1262,
+        "file": "assets/101_jinyi/buildings/b2_ad_41.jpg",
+        "sha256": "dc66ed4d4ac1f633ad0df67e27440e3ee543f9b10a396b578eb0dbb3027f4ce0",
+        "caption": "2号楼A/B立面：实体、玻璃、平台及外部交通的组合",
+        "kind": "立面图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_41.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/03fa/f101/8996/a03f/large_jpg/10jie-dian-xi-bu-01-c-li-mi-zhi-zao-10.jpg?1774966957",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2828,
+        "file": "assets/101_jinyi/buildings/b2_ad_42.jpg",
+        "sha256": "5124c318f585c0012ed39500e8bf28dc9d5817303f38a4c66147ba67ef04f775",
+        "caption": "2号楼节点详图01：外墙、楼板及界面构造；仅供识读原案",
+        "kind": "构造详图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_42.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86e/bacd/cd01/89fe/bee8/large_jpg/11jie-dian-xi-bu-02-c-li-mi-zhi-zao-11.jpg?1774966928",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2828,
+        "file": "assets/101_jinyi/buildings/b2_ad_43.jpg",
+        "sha256": "3e6471c060de35147aa6f18fd5c500cd11a737ffd4df0d15f669b5d13ea75f1d",
+        "caption": "2号楼节点详图02：玻璃界面与楼板节点；不是本项目可直接采用的施工图",
+        "kind": "构造详图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_43.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/03fa/f101/8996/a041/large_jpg/12jie-dian-xi-bu-03-c-li-mi-zhi-zao-12.jpg?1774966926",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2828,
+        "file": "assets/101_jinyi/buildings/b2_ad_44.jpg",
+        "sha256": "bf560ddfbc3e1b7e8089096a93452f1b9384c28512119587372b987aca46fd2a",
+        "caption": "2号楼节点详图03：立面构件与平台连接节点",
+        "kind": "构造详图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_44.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/03fa/f101/8996/a040/large_jpg/13jie-dian-xi-bu-04-c-li-mi-zhi-zao-13.jpg?1774966926",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 2828,
+        "file": "assets/101_jinyi/buildings/b2_ad_45.jpg",
+        "sha256": "26945a7a3ce2c1d75321db5fd9255e2bef5572b981338efd995fd96a2f073fd3",
+        "caption": "2号楼节点详图04：上部框架、屋面和立面交接",
+        "kind": "构造详图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_45.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86d/bacd/cd1c/cb6a/0e99/large_jpg/1qu-wei-tu-c-li-mi-zhi-zao-1.jpg?1774966908",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1414,
+        "file": "assets/101_jinyi/buildings/b2_ad_46.jpg",
+        "sha256": "2353d273769cb2acbd858f43642ef3328abf58926797850827fce371d8aa638e",
+        "caption": "2号楼区位定位图：棕色填充仅识别本栋，其他建筑没有楼号或租户标注",
+        "kind": "节点区位图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2",
+          "macro"
+        ],
+        "thumb": "thumbs/101/b2_ad_46.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86e/03fa/f101/8996/a03e/large_jpg/gai-nian-fen-xi-tu-c-li-mi-zhi-zao-15.jpg?1774966913",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1414,
+        "file": "assets/101_jinyi/buildings/b2_ad_47.jpg",
+        "sha256": "4e6921f97b2d3b23ca863ca2b556cb91939cb9d343c9f53d56203c73cc40ac6b",
+        "caption": "2号楼设计生成图：体块、结构、竖向交通与公共场地的形成；属于设计表达",
+        "kind": "分析图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_47.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/bacd/cd1c/cb6a/0e9b/large_jpg/gong-neng-ti-kuai-fen-xi-tu-c-li-mi-zhi-zao-14.jpg?1774966915",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 2000,
+        "height": 1414,
+        "file": "assets/101_jinyi/buildings/b2_ad_48.jpg",
+        "sha256": "b38dc9bcea7ae3bf369212ea744c5be4f25ba07f3568e15fb6fd2cb8f8d5920f",
+        "caption": "2号楼功能分解轴测：商业盒子、两组楼梯与电梯、相连平台；图中箭头为原设计示意",
+        "kind": "分析图",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_48.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/8ecf/0f01/7f99/d90f/large_jpg/jie-gou-mo-xing-zhao-pian-01-c-li-mi-zhi-zao-17.jpg?1774966904",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_49.jpg",
+        "sha256": "5eb9491876340e77e82f6b67e2c0f15b1614481a6abfdfc563d6df143bbd51f9",
+        "caption": "2号楼结构模型：框架和外部交通的空间关系",
+        "kind": "模型",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_49.webp"
+      },
+      {
+        "sourceUrl": "https://images.adsttc.com/media/images/69cb/d86f/bacd/cd01/89fe/bee9/large_jpg/mo-xing-zhao-pian-c-li-mi-zhi-zao-16.jpg?1774966904",
+        "pageUrl": "https://www.archdaily.cn/cn/1040235/jin-zuo-biao-tian-jin-di-ji-chuang-han-2-hao-lou-she-ji-li-mi-zhi-zao",
+        "credit": "厘米制造",
+        "building": "2号楼 · 津一坐标",
+        "width": 1800,
+        "height": 1200,
+        "file": "assets/101_jinyi/buildings/b2_ad_52.jpg",
+        "sha256": "dc71f1694a410c2ad4d80f030b487b973d808ab4ddfedf4c3945996269d5fe7c",
+        "caption": "2号楼设计模型：多面形象与商业体块、公共平台的嵌合",
+        "kind": "模型",
+        "buildingNumber": 2,
+        "sourceId": "B2-AD",
+        "phase": "2025建筑设计交付记录，2026年4月发表；不是后续书店内装图",
+        "focus": "图纸",
+        "groups": [
+          "b2"
+        ],
+        "thumb": "thumbs/101/b2_ad_52.webp"
+      },
+      {
+        "file": "assets/101_jinyi/buildings/b2_before.jpg",
+        "sourceUrl": "https://oss.gooood.cn/uploads/2026/04/035-Jinyi-Coordinate-Design-of-Building-2-Tianjin-First-Machine-Tool-Plant-by-CM-Design-960x639.jpg",
+        "pageUrl": "https://www.gooood.cn/jinyi-coordinate-design-of-building-2-tianjin-first-machine-tool-plant-by-cm-design.htm",
+        "sourceId": "B2-GOO",
+        "width": 960,
+        "height": 639,
+        "sha256": "0ffcbbcbef9922f252ed8d3c07755a97df7b327e59d95935af707b3134a01fb0",
+        "credit": "枉言 / 厘米制造供稿",
+        "caption": "园区改造前整体航拍：既有厂房与树林；不能据此确认2号楼原状细部",
+        "kind": "改造前鸟瞰",
+        "buildingNumber": null,
+        "building": "园区整体（改造前）",
+        "phase": "改造前记录；不得作为当前经营照片",
+        "focus": "历史对照",
+        "groups": [
+          "macro"
+        ],
+        "thumb": "thumbs/101/b2_before.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_12.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725082724781.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 1080,
+        "sha256": "9dc0d316e4b38a377b93d1916dd48f5b3d3189abaec4811138912dc58c7def03",
+        "caption": "导视功能图标体系：狗狗玩耍区、泊狗位、骑行道、露营地以及停车、卫生间、禁止攀爬等。属于设计覆盖项，非逐设施竣工清单。",
+        "kind": "导视设计图",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_12.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_13.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725082761559.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 1138,
+        "sha256": "ac862364014f8fc63ceed5c54b22e4aad3b0d181c26489f88588513801231d3e",
+        "caption": "泊狗位标识及牵绳停靠的设计应用：将宠物等候需求转为可识别的服务信息。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_13.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_15.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725082855560.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 809,
+        "sha256": "3023bdf9671b6d84358773a2f28ce0b19945d95c30a65b334215c372188c25c3",
+        "caption": "草木与红砖墙前的双面信息牌展示：活动信息与统一园区识别共用清晰版式。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_15.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_17.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725082924045.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 809,
+        "sha256": "9146cef7988771cb3a671a4d00b2ff1fc4f984f772976ee4fe719d3a62d467c7",
+        "caption": "连续围墙／围挡的信息展示面：用重复标识、图形和内容面建立步行识别节奏。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_17.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_19.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725083059494.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 809,
+        "sha256": "33b6d4515813b2045a501486a933a1cffeaaab5da4febe3c6de384f9f3fffd82",
+        "caption": "人尺度竖向信息牌的三面应用展示：将园区、自然与宠物主题拆成独立信息面。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_19.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_20.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725083117950.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 1080,
+        "sha256": "be82fb26ee260cd8e6ace0522106f5b2f0355a863b3d2c72783e11b5b43115dd",
+        "caption": "树上“小鸟窝”标识的应用展示：把小动物主题纳入步行可发现的细部。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_20.webp"
+      },
+      {
+        "file": "assets/101_jinyi/brand_ops/aline_22.png",
+        "sourceUrl": "https://file.digitaling.com/eImg/uimages/20260101/remote_176725083243143.png",
+        "pageUrl": "https://www.digitaling.com/projects/359029.html",
+        "credit": "Aline Studio／数英设计团队供稿",
+        "width": 1080,
+        "height": 809,
+        "sha256": "da91c471954aeaaed042021e15ee70bee498c91b3feb5247a33d86f20fc265ac",
+        "caption": "宠物活动主题信息牌：展示园区宠物友好表达；不以图示直接证明设施已完工或收费。",
+        "kind": "导视应用示意",
+        "buildingKey": "signage",
+        "sourceId": "BO01",
+        "evidenceType": "design",
+        "evidenceBoundary": "设计方发布的导视与装置应用展示；图面没有逐项竣工验收信息，不将所有效果展示写作已安装设施。",
+        "focus": "导视与宠物友好",
+        "groups": [
+          "wayfinding"
+        ],
+        "thumb": "thumbs/101/aline_22.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/202511051019319a4669.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园品牌照片：两层红砖长楼与保留树林，店名为“苏联专家楼旧址店”。",
+        "file": "assets/101_jinyi/tenants/P01_05.jpg",
+        "width": 1749,
+        "height": 960,
+        "sha256": "01ed64aa9171a0614f725e2c63ab9d923c1991ea7b206b5148d4f9315113b1b1",
+        "kind": "鸟瞰实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "thumb": "thumbs/101/P01_05.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/20251105101935c254d7.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园正立面与台阶入口：砖墙、木窗、前场平台和屋檐共同组织到达。",
+        "file": "assets/101_jinyi/tenants/P01_06.jpg",
+        "width": 2500,
+        "height": 1667,
+        "sha256": "5a6f7fb28a2197efb8f3b1269eb9dd37ea60193ac16e8d27938b21cddf98af1a",
+        "kind": "建筑实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P01_06.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/20251105101934e2c409.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园树下院落：两层餐厅与伞下外摆保持邻接，树冠覆盖主要停留区。",
+        "file": "assets/101_jinyi/tenants/P01_07.jpg",
+        "width": 2500,
+        "height": 1406,
+        "sha256": "9348bc344e462833e32ebfa13c8dd5f3a6a8261b43cff6a03f747e95ed364fb1",
+        "kind": "商业实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P01_07.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/20251105101926775aa8.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园坡屋顶内景：外露木桁架、长桌、书架与窗边卡座。",
+        "file": "assets/101_jinyi/tenants/P01_08.jpg",
+        "width": 2500,
+        "height": 1667,
+        "sha256": "d628e0a42546472b78dd0b96a0b53b8a994ad354fccc7287447b7bcfdc0bd014",
+        "kind": "商业实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P01_08.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/2025110510193475f608.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园楼梯与高窗：上下层交通借自然光形成有记忆点的内部路径。",
+        "file": "assets/101_jinyi/tenants/P01_09.jpg",
+        "width": 2500,
+        "height": 3750,
+        "sha256": "1ac1e626183265e37ae03122af935ca134f24f09599a9aa5e659bc9fe4038785",
+        "kind": "商业实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P01_09.webp"
+      },
+      {
+        "sourceId": "P01",
+        "pageUrl": "https://www.yichizhijian.com/NewsDetail/6165387.html",
+        "sourceUrl": "https://img.wds168.cn/comdata/83439/202511/20251105101926aaac45.jpg",
+        "credit": "一尺之间／一尺花园",
+        "caption": "一尺花园店内保留的机床展品：工业记忆嵌入日常用餐停留空间。",
+        "file": "assets/101_jinyi/tenants/P01_10.jpg",
+        "width": 2500,
+        "height": 3750,
+        "sha256": "2015cdc755e9f3d268e97ce942a649c2629aaed3a44163d61137982891d4b9ff",
+        "kind": "商业实景",
+        "groups": [
+          "yichi",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P01_10.webp"
+      },
+      {
+        "sourceId": "P02",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-08/13/content_87650_3734656.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-08-13/07/2f4f2ed2-6936-414f-8986-11d4fe279789_s.jpg",
+        "credit": "今晚报",
+        "caption": "2026年书店专题中的室外机床展品：可近距离观看的工业遗存，原报道未标楼号。",
+        "file": "assets/101_jinyi/tenants/P02_13_hd.jpg",
+        "width": 768,
+        "height": 576,
+        "sha256": "36fb67be08512435739f391b48770ba113dcc3589ec21f6772f109c1ab6e636a",
+        "kind": "运营实景",
+        "groups": [
+          "museum"
+        ],
+        "thumb": "thumbs/101/P02_13_hd.webp"
+      },
+      {
+        "sourceId": "P02",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-08/13/content_87650_3734656.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-08-13/07/3927f874-d1ff-4042-a87b-5c887d0d877b_s.jpg",
+        "credit": "今晚报",
+        "caption": "书店专题配图中的阅读交流现场；照片未逐层标注，不据此确定具体楼层。",
+        "file": "assets/101_jinyi/tenants/P02_14_hd.jpg",
+        "width": 768,
+        "height": 576,
+        "sha256": "34604721d7d576c623e3a467b8ea332b72d2256f088caaba2d5b0b9e969e3612",
+        "kind": "运营实景",
+        "groups": [
+          "bookstore",
+          "commerce",
+          "b2"
+        ],
+        "thumb": "thumbs/101/P02_14_hd.webp"
+      },
+      {
+        "sourceId": "P02",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-08/13/content_87650_3734656.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-08-13/07/2b5fa4e0-1643-468e-9252-e6ee641b08ab_s.jpg",
+        "credit": "今晚报",
+        "caption": "书店专题中的文创展售与挑选场景：阅读、商品和停留使用并置。",
+        "file": "assets/101_jinyi/tenants/P02_15_hd.jpg",
+        "width": 768,
+        "height": 569,
+        "sha256": "8b320dc21c4a8d6f8aa2504c3993817b1beb3f26ded497029832ad646ba6e1ce",
+        "kind": "商业实景",
+        "groups": [
+          "bookstore",
+          "commerce",
+          "b2"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P02_15_hd.webp"
+      },
+      {
+        "sourceId": "P02",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-08/13/content_87650_3734656.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-08-13/07/524ee24e-a8ad-4d02-bf66-dd5a8edf8fa2_s.jpg",
+        "credit": "今晚报",
+        "caption": "2026年报道中的公共艺术装置与公园标识，构成草坪上的可识别节点。",
+        "file": "assets/101_jinyi/tenants/P02_16_hd.jpg",
+        "width": 768,
+        "height": 569,
+        "sha256": "cbfa93ce02f14221e89ebafbc35aba500a470dbb00b6f127201ce0b153a473a5",
+        "kind": "景观实景",
+        "groups": [
+          "landscape"
+        ],
+        "thumb": "thumbs/101/P02_16_hd.webp"
+      },
+      {
+        "sourceId": "P03",
+        "pageUrl": "https://epaper.tianjinwe.com/tjrb/h5/html5/2026-09/15/content_143100_3839777.htm",
+        "sourceUrl": "https://epaper.tianjinwe.com/tjrb/h5/resfile/2026-09-15/12/p1_b.jpg",
+        "credit": "天津日报",
+        "caption": "2026年PAGEONE天津店现况外观：白色体块、透明界面与既有2号楼框架。",
+        "file": "assets/101_jinyi/tenants/P03_02.jpg",
+        "width": 400,
+        "height": 244,
+        "sha256": "ec6a148fff1a7dbc24074ccfd7fc8e368f892dfd41510cccf66742ad6cf524e1",
+        "kind": "建筑实景",
+        "groups": [
+          "bookstore",
+          "commerce",
+          "b2"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P03_02.webp"
+      },
+      {
+        "sourceId": "P03",
+        "pageUrl": "https://epaper.tianjinwe.com/tjrb/h5/html5/2026-09/15/content_143100_3839777.htm",
+        "sourceUrl": "https://epaper.tianjinwe.com/tjrb/h5/resfile/2026-09-15/12/p2_b.jpg",
+        "credit": "天津日报",
+        "caption": "2026年PAGEONE天津店营业内景：咖啡柜台、陈列与通透临窗界面。",
+        "file": "assets/101_jinyi/tenants/P03_03.jpg",
+        "width": 400,
+        "height": 468,
+        "sha256": "ddddde4fc997111d48d5fa3d95db852726567c4157e0729bdff8c14f77bac3d3",
+        "kind": "商业实景",
+        "groups": [
+          "bookstore",
+          "commerce",
+          "b2"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P03_03.webp"
+      },
+      {
+        "sourceId": "BO04",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-03/17/content_87647_3230248.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-03-17/04/13533857_zpcqx_1773665454860_s.jpg",
+        "credit": "今晚报",
+        "caption": "机床工业博物馆报道配图：工业展品与亲子参观场景。未取得对应楼号。",
+        "file": "assets/101_jinyi/tenants/P05_13_hd.jpg",
+        "width": 768,
+        "height": 576,
+        "sha256": "032c56ee77b1d44b1b3b9b87440202e86a8f7522c90c2d8dd9d7394a327e41dd",
+        "kind": "运营实景",
+        "groups": [
+          "museum"
+        ],
+        "thumb": "thumbs/101/P05_13_hd.webp"
+      },
+      {
+        "sourceId": "BO04",
+        "pageUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/html/2026-03/17/content_87647_3230248.htm",
+        "sourceUrl": "https://jinwanbaoepaper.enorth.com.cn/jwb/resfile/2026-03-17/04/13533859_zpcqx_1773665487204_s.jpg",
+        "credit": "今晚报",
+        "caption": "机床工业博物馆内部：保留大跨厂房空间与大型机械展品共同组织参观。",
+        "file": "assets/101_jinyi/tenants/P05_14_hd.jpg",
+        "width": 768,
+        "height": 568,
+        "sha256": "6bf8ca2a8249044db7a7c8c64c20b677c29962b3fe02dd4bc5b0dc466b5cf3a9",
+        "kind": "运营实景",
+        "groups": [
+          "museum"
+        ],
+        "thumb": "thumbs/101/P05_14_hd.webp"
+      },
+      {
+        "sourceId": "P06",
+        "pageUrl": "https://epaper.tianjinwe.com/tjrb/h5/html5/2026-04/02/content_143098_3295606.htm",
+        "sourceUrl": "https://epaper.tianjinwe.com/tjrb/h5/resfile/2026-04-02/11/p1_b.jpg",
+        "credit": "天津日报",
+        "caption": "2026年3月14号楼“首要饰件”美物集：室内摊位沿公共通道布置。",
+        "file": "assets/101_jinyi/tenants/P06_02.jpg",
+        "width": 400,
+        "height": 235,
+        "sha256": "ab1091dc602e90c627401b7979d71933f2d5d394e3028ce398896fee5743c432",
+        "kind": "市集运营实景",
+        "groups": [
+          "market"
+        ],
+        "thumb": "thumbs/101/P06_02.webp"
+      },
+      {
+        "sourceId": "P08",
+        "pageUrl": "https://m.thepaper.cn/newsDetail_forward_29263758",
+        "sourceUrl": "https://imagepphcloud.thepaper.cn/pph/image/328/804/374.jpg",
+        "credit": "天津河东融媒官方澎湃号",
+        "caption": "河东融媒2024年星巴克店内实景：红砖窗墙、木桁架与新增吧台座席。",
+        "file": "assets/101_jinyi/tenants/P08_03.jpg",
+        "width": 1080,
+        "height": 785,
+        "sha256": "5b9e1f12ccb9cf880e4a1caead94319f173b2fa4e4ce7dad7236a2c18b93c271",
+        "kind": "商业实景",
+        "groups": [
+          "starbucks",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P08_03.webp"
+      },
+      {
+        "sourceId": "P08",
+        "pageUrl": "https://m.thepaper.cn/newsDetail_forward_29263758",
+        "sourceUrl": "https://imagepphcloud.thepaper.cn/pph/image/328/804/380.jpg",
+        "credit": "天津河东融媒官方澎湃号",
+        "caption": "河东融媒2024年星巴克入口局部：品牌标识、红砖立柱与玻璃界面，画面含到访者。",
+        "file": "assets/101_jinyi/tenants/P08_05.jpg",
+        "width": 1080,
+        "height": 1920,
+        "sha256": "ea663b6f612fd8c5cd2d34b3232f9d6193a85bdcb51c3e53b515f1dc7a6d03de",
+        "kind": "商业实景",
+        "groups": [
+          "starbucks",
+          "commerce"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P08_05.webp"
+      },
+      {
+        "sourceId": "P08",
+        "pageUrl": "https://m.thepaper.cn/newsDetail_forward_29263758",
+        "sourceUrl": "https://imagepphcloud.thepaper.cn/pph/image/328/804/386.jpg",
+        "credit": "天津河东融媒官方澎湃号",
+        "caption": "河东融媒标注的原职工食堂：旧坡屋顶与新增通透入口、室外花园并置。现租户及楼号未确认。",
+        "file": "assets/101_jinyi/tenants/P08_07.jpg",
+        "width": 1080,
+        "height": 720,
+        "sha256": "a6f1a15cbd8d57292abb2df52991408983747ea9234bd77d9202481ef65a42d9",
+        "kind": "建筑实景",
+        "groups": [
+          "front"
+        ],
+        "focus": "建筑外观",
+        "thumb": "thumbs/101/P08_07.webp"
+      }
+    ],
+    "researchDate": "2026-11-06",
+    "collection": "存量小屋群",
+    "cover": "assets/101_jinyi/overall/overall_01.jpg",
+    "clusterEvidence": "园区以22栋工业建筑为更新对象，包含修缮、功能再利用及2号楼拆除重建等不同方式；本案重点研究分散商业、公共公园与文商旅内容怎样结合。",
+    "groupFit": "商户各自经营，草坪、河岸、树下路径、院落与公共文化节点串联到访；产业办公也构成日常使用来源。",
+    "origin": "修订05新增",
+    "unitLabel": "工业建筑群＋开放公园",
+    "themes": [
+      "市集与活动",
+      "文化与展演",
+      "园艺与零售",
+      "自然教育",
+      "运动与培训",
+      "露营与度假"
+    ],
+    "oneLiner": "用公共公园连接有独立前场的经营节点，以阅读、市集、展馆和活动日历形成持续到访内容。",
+    "strategy": {
+      "customer": "面向周边日常散步与工作日办公人群，也接待亲子、携宠、阅读、展览和周末活动客群；不同空间对应不同停留时长。",
+      "spatial": "草坪、月牙河边缘和树下庭院构成连续公共环境。商业门前留停留与外摆；2号楼用平台和外梯组织竖向公共路线，其他历史建筑保留自身形态。",
+      "operations": "日常商户提供稳定服务，自有慢人生活节与节假日日历叠加活动。书店顶层按平日学习、周末分享复用；室内厂房接待有主题选摊的阶段市集。",
+      "revenue": "可核的消费包括餐饮、图书文创和特定活动的书票／饮品票。市集场租、露营及体育培训收费未完整公开，园区营业额报道不作净利润证明。",
+      "evidence": "本轮交叉收录官方一期总平、三期转载、设计方单体与景观图、品牌照片和2026记者采访；建筑与实际经营不处在同一资料时间时分别说明。",
+      "transfer": "在海河先保证连续公共慢行，再选日常咖啡、阅读手作或亲子内容作为小型锚点，预留有顶活动场所、共享草坪、清洁与设备接口。",
+      "seasonality": "草坪与外摆适合温和季节，天津冬季需依靠有顶空间、室内阅读和可预约内容。以可移动家具和共享收纳支持活动切换，具体面积与频次由运营方测试。"
+    },
+    "deepDive": {
+      "intro": "这是一座以工业存量为底盘、以公共公园连接分散建筑的都市产业园。调研从规划分期、建筑改造、后续商户使用三个层面交叉阅读：先找得到建筑，再说明它承担什么功能、用什么前场、怎样组织日常与活动。",
+      "highlights": [
+        {
+          "value": "22栋",
+          "label": "报道中的工业建筑更新对象"
+        },
+        {
+          "value": "97张",
+          "label": "本次精选图像与图纸"
+        },
+        {
+          "value": "3+1",
+          "label": "产业与文商旅定位"
+        },
+        {
+          "value": "2号楼",
+          "label": "具备完整建筑平立剖"
+        }
+      ],
+      "imageGroups": [
+        {
+          "key": "macro",
+          "label": "总图 / 鸟瞰 / 分期"
+        },
+        {
+          "key": "landscape",
+          "label": "公园景观与活动草坪"
+        },
+        {
+          "key": "front",
+          "label": "前区历史建筑与厂史馆"
+        },
+        {
+          "key": "b2",
+          "label": "2号楼 · 原设计及后续使用"
+        },
+        {
+          "key": "bookstore",
+          "label": "PAGEONE营业现况"
+        },
+        {
+          "key": "yichi",
+          "label": "一尺花园建筑与院落"
+        },
+        {
+          "key": "starbucks",
+          "label": "入口星巴克"
+        },
+        {
+          "key": "museum",
+          "label": "机床工业展示"
+        },
+        {
+          "key": "market",
+          "label": "14号楼市集"
+        },
+        {
+          "key": "wayfinding",
+          "label": "导视与宠物友好设计"
+        },
+        {
+          "key": "commerce",
+          "label": "已核实商业使用实景"
+        }
+      ],
+      "positioning": [
+        {
+          "title": "产业是园区的一条日常使用线",
+          "text": "2026年官方转载报道将方向概括为海洋科创、智能科技、总部经济，加文商旅融合。产业企业与公共到访者使用同一片园区的不同部分；市场主体数量包含企业，不能直接当作餐饮零售店数。",
+          "refs": [
+            "BO02"
+          ]
+        },
+        {
+          "title": "公园连接建筑，而不是把所有间隙铺成商铺",
+          "text": "草坪、河岸、树下路径、台地和小院落为分散建筑提供共同环境。游客可以先使用公共空间，再选择阅读、参观或消费；这也是本案对海河公园最直接的参考。",
+          "refs": [
+            "O1",
+            "O2"
+          ]
+        },
+        {
+          "title": "文化内容提供可持续更新的到访理由",
+          "text": "机床展示、厂史、文学活动、演出和手作市集，使园区的内容不只依靠建筑外观。每类活动都有具体空间和时间，票务、营业额与盈利仍应按各自来源区分。",
+          "refs": [
+            "P03",
+            "P06",
+            "BO05"
+          ]
+        },
+        {
+          "title": "多团队参与，逐栋核对归属",
+          "text": "景观由奥雅承担，建筑统筹及单体有天津大学设计总院、厘米制造等多团队参与；CREDAWARD列出的协作单位不能直接分配给每一栋房子。2号楼、前区修缮与视觉导视分别按对应供稿署名。",
+          "refs": [
+            "O1",
+            "O8",
+            "B2-GOO",
+            "BO01"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1951",
+          "title": "天津第一机床总厂创立",
+          "text": "作为园区工业历史的起点；单栋建设年代继续按其建筑资料单独识别。",
+          "refs": [
+            "BO02",
+            "O8"
+          ]
+        },
+        {
+          "date": "2023",
+          "title": "城市更新启动，公园一期总图公布",
+          "text": "2023年12月29日正式公布图明确一期本次申报范围、保留建筑与全公园地块指标。",
+          "refs": [
+            "O4"
+          ]
+        },
+        {
+          "date": "2024",
+          "title": "起步区与前区建筑逐步开放",
+          "text": "前区设计方8月发表首批修缮成果；11月河东融媒已记录星巴克、公园散步和原职工食堂外观。资料中的分区与建筑落成不等于所有商户同时开业。",
+          "refs": [
+            "O8",
+            "P08"
+          ]
+        },
+        {
+          "date": "2025.07",
+          "title": "三期规划变更资料",
+          "text": "媒体转载图可读一二三期范围、建筑分布及指标；原件清晰度有限，保持转载与正式一期原图的不同来源级别。",
+          "refs": [
+            "O5"
+          ]
+        },
+        {
+          "date": "2025.10–11",
+          "title": "西区开放与一尺花园试营业",
+          "text": "10月11日官方报道西区开放；一尺花园11月5日品牌文章宣布11月1日试营业。",
+          "refs": [
+            "O7",
+            "P01"
+          ]
+        },
+        {
+          "date": "2026.03–04",
+          "title": "14号楼市集与新增日常商户",
+          "text": "3月下旬美物集在14号楼举行；6月店长采访回述M Stand于4月落地，外围设有宠物友好点。",
+          "refs": [
+            "P06",
+            "BO03"
+          ]
+        },
+        {
+          "date": "2026.07–10",
+          "title": "书店与多种文商旅内容投入使用",
+          "text": "7月PAGEONE天津首店开业，8—9月报道介绍分层阅读与分时复用；10月活动发布可核到2号楼4F，并列免费听讲、书票与饮品票。",
+          "refs": [
+            "P02",
+            "P03",
+            "P10",
+            "B2-PAGEONE"
+          ]
+        }
+      ],
+      "scales": [
+        {
+          "label": "产业园区新闻口径",
+          "value": "约400亩",
+          "note": "2026年7月报道回述接手原厂区的土地规模，非公园报建地块面积。",
+          "refs": [
+            "BO02"
+          ]
+        },
+        {
+          "label": "公园地块总指标",
+          "value": "79,978.8㎡；界内建设用地56,849.4㎡",
+          "note": "2023官方一期公布图的全公园总口径；与一期、三期各自本次申报量分开。",
+          "refs": [
+            "O4"
+          ]
+        },
+        {
+          "label": "一期本次申报",
+          "value": "用地11,550.5㎡；保留建筑861.9㎡",
+          "note": "只描述一期这次申报，不是全园所有房屋的总建筑面积。",
+          "refs": [
+            "O4"
+          ]
+        },
+        {
+          "label": "三期本次申报",
+          "value": "用地49,447.2㎡；总建≤6,395.8㎡",
+          "note": "2025媒体转载图中的本次三期上限；全地块地上计容上限12,800㎡是另一列。",
+          "refs": [
+            "O5"
+          ]
+        },
+        {
+          "label": "前区修缮项目",
+          "value": "占地11,500㎡",
+          "note": "AATU前区发表的设计范围，按该项目口径记录。",
+          "refs": [
+            "O8"
+          ]
+        },
+        {
+          "label": "2号楼建筑发表",
+          "value": "809㎡",
+          "note": "厘米制造的单体建筑面积；图纸为2025建筑设计记录，2026年4月发表。",
+          "refs": [
+            "B2-GOO",
+            "B2-AD"
+          ]
+        },
+        {
+          "label": "一尺花园项目",
+          "value": "约1,114㎡",
+          "note": "品牌项目面积，未公开室内净营业与庭院的拆分。",
+          "refs": [
+            "P01"
+          ]
+        },
+        {
+          "label": "PAGEONE经营报道",
+          "value": "900余㎡；4F约80㎡",
+          "note": "书店报道面积与顶层使用描述，不能与809㎡建筑发表口径互换。",
+          "refs": [
+            "P02",
+            "P03"
+          ]
+        }
+      ],
+      "mapIntro": "这几张图各有时间和范围：一期正式公布图、三期媒体转载图、分期范围图，以及2号楼单体区位图分别保留。规划图能读用地与建筑配置，单体图能读本栋与周围环境；完整的2026楼号—商户官方导览尚未取得。",
+      "mapImages": [
+        "assets/101_jinyi/overall/plan_phase1_20231229.jpg",
+        "assets/101_jinyi/overall/plan_phase3_2_20250725.jpg",
+        "assets/101_jinyi/overall/plan_phase3_3_20250725.jpg",
+        "assets/101_jinyi/buildings/b2_ad_46.jpg"
+      ],
+      "unmappedNote": "不要混读三套编号：公园一期／二期／三期是报建阶段；片区02、07等地块是开发编号；园区2号、7号、14号是建筑称谓。2号楼首层图中的1—10又是局部功能图例。下表只对已核实对象建立对应，其余楼号明确保留缺项。",
+      "buildings": [
+        {
+          "key": "b2",
+          "label": "2号楼",
+          "title": "津一坐标 → PAGEONE天津店",
+          "oldUse": "原热处理车间；原二层砖混建筑",
+          "currentUse": "拆除重建为商业与公共活动复合体；2026年由PAGEONE开店",
+          "location": "官方一期图下侧可见非本次申报的2#；厘米制造区位图另标本栋，位于月牙河与公园广场交接处、龙门吊以南。",
+          "mapStatus": "楼号与现品牌均已核",
+          "group": "b2",
+          "refs": [
+            "B2-GOO",
+            "B2-AD",
+            "B2-PAGEONE",
+            "P03"
+          ],
+          "facts": [
+            "建筑设计发表面积809㎡，为混凝土框架的新建单体；设计方说明采用拆除重建，未取得结构鉴定资料。",
+            "北侧外露耐候钢折梯连地面阶梯看台；南侧楼梯与观光电梯集中在结构体内，外廊连接两端。",
+            "西向弧形露台面向月牙河；屋顶另设活动场地，树木、框架和平台共同塑造建筑轮廓。",
+            "品牌2026年10月官方门店信息列出2号楼地址；2026年报纸另介绍书店的四层使用，室内更新平面未取得。"
+          ],
+          "readings": [
+            {
+              "title": "先读商业盒子，再读公共路径",
+              "text": "原建筑平面把室内经营体块和外部平台分别表达。看台、折梯、外廊、露台形成可串联的游走界面；设计图表达这种空间潜力，当前屋顶、平台的开放管理仍需向园区核实。"
+            },
+            {
+              "title": "逐层看原设计，保留图纸阶段",
+              "text": "1F接广场与河岸；2F为局部商业、外廊和挑空；3F接西侧弧形露台；4F图例主要为平台、梯与电梯厅；屋顶另有活动场地。不能将这套空白建筑图按书架与营业分区重新命名。"
+            },
+            {
+              "title": "立面为何有层次",
+              "text": "混凝土框架提供统一尺度，透明开口、旧砖材料和耐候钢楼梯形成实与虚、内与外的交错。楼梯外露使竖向路径可见，框架中的保留树木让建筑边缘带有公园尺度。"
+            },
+            {
+              "title": "后续书店怎样用",
+              "text": "报道介绍1F社交与休闲、2F亲子阅读、3F安静阅读、4F分享与分时使用。建筑交付与后续经营各有来源，现状内装和原4F平台图之间的改动无法由公开资料完整还原。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/buildings/b2_ad_00.jpg",
+            "assets/101_jinyi/buildings/b2_ad_09.jpg",
+            "assets/101_jinyi/buildings/b2_ad_17.jpg",
+            "assets/101_jinyi/buildings/b2_ad_34.jpg",
+            "assets/101_jinyi/buildings/b2_ad_35.jpg",
+            "assets/101_jinyi/buildings/b2_ad_36.jpg",
+            "assets/101_jinyi/buildings/b2_ad_37.jpg",
+            "assets/101_jinyi/buildings/b2_ad_38.jpg",
+            "assets/101_jinyi/buildings/b2_ad_39.jpg",
+            "assets/101_jinyi/buildings/b2_ad_48.jpg",
+            "assets/101_jinyi/tenants/P03_02.jpg",
+            "assets/101_jinyi/tenants/P03_03.jpg"
+          ],
+          "boundary": "809㎡为建筑设计发表口径；书店报道另称900余㎡，统计范围未展开，二者不互换。原4F平台图不是2026年书店内装平面。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "front-history",
+          "label": "前区",
+          "title": "原专家楼会议室 → 厂史馆",
+          "oldUse": "AATU称原苏联专家楼会议室，初始为疗养食堂",
+          "currentUse": "2024修缮设计交付为一机床厂史馆",
+          "location": "前区静水庭院边的单层红砖建筑；AATU图注可以对上建筑对象，未提供可确认的园区楼号。",
+          "mapStatus": "对象已核，楼号未核",
+          "group": "front",
+          "refs": [
+            "O8"
+          ],
+          "facts": [
+            "设计方记录专家楼与会议室于1957年设计、1958—1963年建成。该年代针对这组建筑，园区创立于1951年是另一口径。",
+            "原木桁架和木檩条整修后展示；红砖外檐与坡屋顶延续历史风貌，院落中心用静水组织共同前场。"
+          ],
+          "readings": [
+            {
+              "title": "用院落把几栋旧房连在一起",
+              "text": "公共水面、廊下和入口之间形成可共享的停留前场；游客可以先进入庭院，再决定参观哪栋建筑。"
+            },
+            {
+              "title": "展陈与建筑构件一起讲故事",
+              "text": "档案、旧图纸、生产工具和原有窗洞共同组成展陈体验。这里的厂史叙事与大型机床展馆分别说明，公开资料没有给出统一售票或导览套餐。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/overall/front_aatu_00.jpeg",
+            "assets/101_jinyi/overall/front_aatu_03.jpeg",
+            "assets/101_jinyi/overall/front_aatu_06.jpeg",
+            "assets/101_jinyi/overall/front_aatu_08.jpeg"
+          ],
+          "boundary": "这是AATU2024修缮项目的名称与用途，未取得逐栋最新租户表，不将其直接改写为某个现有咖啡品牌。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "front-cafe",
+          "label": "前区",
+          "title": "AATU所称“苏联专家楼”咖啡空间",
+          "oldUse": "原疗养所，后称苏联专家楼",
+          "currentUse": "2024修缮设计为咖啡馆及日常停留空间",
+          "location": "设计方发布的单层坡顶、柱廊与三角山花建筑；按其照片识别，不靠后续店名猜楼号。",
+          "mapStatus": "对象已核，品牌关系待核",
+          "group": "front",
+          "refs": [
+            "O8"
+          ],
+          "facts": [
+            "歇山或悬山形式的坡屋顶、清水红砖和简化柱式共同构成建筑形象。",
+            "内部保留木构屋面，咖啡座席、书架和工业齿轮展示分布在较小的室内单元。"
+          ],
+          "readings": [
+            {
+              "title": "让历史构件成为近身使用的内容",
+              "text": "齿轮构件既可被观看，也参与局部空间分隔；座席和书架靠近展示，让消费停留与工业叙事相邻。"
+            },
+            {
+              "title": "保留适合小群体的角落",
+              "text": "窗边、书架旁、廊下采用不同停留尺度；同一咖啡馆可接待短坐、等人、阅读和结伴交流。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/overall/front_aatu_02.jpeg",
+            "assets/101_jinyi/overall/front_aatu_14.jpeg",
+            "assets/101_jinyi/overall/front_aatu_16.jpeg",
+            "assets/101_jinyi/overall/front_aatu_25.jpeg"
+          ],
+          "boundary": "AATU的建筑照片与一尺花园品牌发布的两层红砖长楼形态不同；本案分别归档，不凭同名“专家楼”将二者合并。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "yichi",
+          "label": "品牌门店",
+          "title": "一尺花园 · 苏联专家楼旧址店",
+          "oldUse": "品牌以“苏联专家楼旧址店”命名",
+          "currentUse": "餐饮、咖啡、阅读与树下院落外摆",
+          "location": "品牌原图可识别两层红砖长楼、坡顶和院落；未从官方楼号总图核到对应编号。",
+          "mapStatus": "品牌与建筑照片已核",
+          "group": "yichi",
+          "refs": [
+            "P01",
+            "BO02"
+          ],
+          "facts": [
+            "品牌文章发表于2025年11月5日，宣布11月1日试营业；项目面积约1114㎡，未明确净营业面积或室内外拆分。",
+            "现况照片显示两层红砖建筑、外露木桁架、树下外摆、高窗楼梯和室内机床展品。"
+          ],
+          "readings": [
+            {
+              "title": "树冠先划出外摆的舒适边界",
+              "text": "伞下桌椅紧接建筑入口，外围树木继续提供公园背景。室外座席位于经营前场，而公共穿行路径仍需由总图与现场管理再核。"
+            },
+            {
+              "title": "把消费停留分散到不同小场景",
+              "text": "长桌适合多人，窗边卡座适合阅读与等候，庭院接待外摆；楼梯与高窗让上楼过程本身成为空间体验。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/tenants/P01_05.jpg",
+            "assets/101_jinyi/tenants/P01_06.jpg",
+            "assets/101_jinyi/tenants/P01_07.jpg",
+            "assets/101_jinyi/tenants/P01_08.jpg",
+            "assets/101_jinyi/tenants/P01_09.jpg",
+            "assets/101_jinyi/tenants/P01_10.jpg"
+          ],
+          "boundary": "品牌文章以1951年叙述历史，AATU对另一组“专家楼和会议室”给出更细建设年代。尚无足够资料将两套名称、楼号与边界一一统一。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "starbucks",
+          "label": "入口节点",
+          "title": "星巴克 · 日常到访的经营锚点",
+          "oldUse": "工业旧建筑，具体原用途未作确定对应",
+          "currentUse": "咖啡、简短停留与朋友会面",
+          "location": "2026年官方转载报道明确在园区入口；2024河东融媒照片确认其红砖、木桁架和玻璃界面，未给楼号。",
+          "mapStatus": "入口位置与品牌已核",
+          "group": "starbucks",
+          "refs": [
+            "P08",
+            "BO02"
+          ],
+          "facts": [
+            "2024年官方融媒已报道星巴克在园区营业，2026年7月报道再次将其列为入口配套。",
+            "内部新吧台与座席置于原有红砖窗墙、木构屋面之下，品牌入口与工业材料同时可见。"
+          ],
+          "readings": [
+            {
+              "title": "以熟悉的服务降低第一次到访成本",
+              "text": "入口先出现可识别、可日常使用的咖啡服务，游客无需等到节庆活动才有停留理由。由此向内连接庭院、展馆与公园步道，是本次对空间关系的归纳。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/tenants/P08_03.jpg",
+            "assets/101_jinyi/tenants/P08_05.jpg"
+          ],
+          "boundary": "未由强一手来源确认其与AATU“专家楼会议室”命名的对应，不以攻略中的原用途直接绑定总图。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "museum",
+          "label": "展馆节点",
+          "title": "天津机床工业博物馆与开放工业展品",
+          "oldUse": "原机床厂的生产与设备遗存",
+          "currentUse": "工业文化参观、机械展示、亲子认识生产过程",
+          "location": "报道与实景可识别大跨厂房、机械展品和游览活动；未取得单体平面及确定楼号。",
+          "mapStatus": "展馆已核，楼号未核",
+          "group": "museum",
+          "refs": [
+            "BO04",
+            "BO02"
+          ],
+          "facts": [
+            "馆内外保留大型机床作为展示对象，游览不只观看空厂房外观，还能接近真实生产设备。",
+            "公开报道将机床工业博物馆与日常商业并列，文化吸引物和餐饮停留共同构成到访内容。"
+          ],
+          "readings": [
+            {
+              "title": "大机器提供小商铺难以替代的参观内容",
+              "text": "以完整设备保留尺度和工业记忆，周边可串接讲解、亲子参观及餐饮休息；本案不据照片假设体验课、门票或场租已经开收。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/tenants/P05_14_hd.jpg",
+            "assets/101_jinyi/tenants/P05_13_hd.jpg",
+            "assets/101_jinyi/tenants/P02_13_hd.jpg"
+          ],
+          "boundary": "厂史馆与机床工业博物馆在来源中分别称呼，本案保留两类展示空间的区别，不将所有室内展陈照片合成一栋。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "market",
+          "label": "14号楼",
+          "title": "厂房里的手作与美物市集",
+          "oldUse": "工业厂房，具体原车间名称未核",
+          "currentUse": "阶段性的文创、首饰、手作与餐饮市集",
+          "location": "2026年4月实地报道明确市集位于14号楼；一期总图下侧可见非本期范围14#，跨期只作位置线索。",
+          "mapStatus": "活动与楼号已核",
+          "group": "market",
+          "refs": [
+            "P06",
+            "O4"
+          ],
+          "facts": [
+            "2026年3月下旬的三天活动由150家饰品及文创摊主、20家餐饮品牌参与，数字为该次活动报道。",
+            "室内厂房提供有顶空间，市集以公共通道连接可试戴、可购买的独立摊位。"
+          ],
+          "readings": [
+            {
+              "title": "用主题选摊，而非只铺满摊位",
+              "text": "该次活动集中在首饰、穿戴、原创手作和艺术周边，餐饮与沉浸式工人讲解作为补充；相对清楚的选题能形成目标人群和共同传播内容。"
+            },
+            {
+              "title": "让室内场地补上天气影响",
+              "text": "大跨有顶空间可以承接换季或天气不稳定时的活动，外围草坪仍保留公园使用。天津的小型项目可借鉴“有顶共享活动厅＋室外前场”的组合，而非照搬大厂房体量。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/tenants/P06_02.jpg"
+          ],
+          "boundary": "公开报道未披露摊位费、主办方分成或这栋建筑的固定经营合同。单个摊主销售自述不作为整个园区收益。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "front-other",
+          "label": "前区组团",
+          "title": "原职工食堂、职工之家与幼儿园",
+          "oldUse": "原厂区职工生活服务建筑",
+          "currentUse": "修缮后成为园区建筑存量及游览背景；逐栋最新租户待核",
+          "location": "前区设计照片分别注明职工之家与幼儿园；食堂由河东融媒标注。均未取得完整楼号对照。",
+          "mapStatus": "原用途有注，现租户待核",
+          "group": "front",
+          "refs": [
+            "O8",
+            "P08"
+          ],
+          "facts": [
+            "前区包含不同年代与尺度的建筑：小尺度旧房、连续廊道长楼和临庭院公共界面。",
+            "修缮记录保留它们各自的建筑形态，不能把所有前区房屋都解释成已开业咖啡馆。"
+          ],
+          "readings": [
+            {
+              "title": "保留多种面积单元，给后续内容留选择",
+              "text": "长楼、院落、食堂式公共空间可以承接不同规模的用途。这里能借鉴的是存量单元差异与公共前场关系；具体招商业态需由可核租户资料补全。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/overall/front_aatu_21.jpeg",
+            "assets/101_jinyi/overall/front_aatu_23.jpeg",
+            "assets/101_jinyi/tenants/P08_07.jpg"
+          ],
+          "boundary": "",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "b7",
+          "label": "7号楼",
+          "title": "原供应科电机库",
+          "oldUse": "供应科电机库",
+          "currentUse": "设计方确认承担改造设计；现租户未独立核实",
+          "location": "2号楼设计供稿同时提及7号楼，但未公开可逐号定位的独立图纸。",
+          "mapStatus": "设计参与已核，图片缺项",
+          "group": "",
+          "refs": [
+            "B2-GOO",
+            "B2-AD"
+          ],
+          "facts": [
+            "厘米制造明确参与2号楼与7号楼两栋改造；公开资料对2号楼的建筑说明明显更完整。"
+          ],
+          "readings": [
+            {
+              "title": "把资料空缺留在索引里",
+              "text": "7号楼保留为待核节点，后续若取得园区导览、招商图册或单体发表可继续补齐；当前不借用2号楼或其他红砖建筑照片填充。"
+            }
+          ],
+          "figures": [],
+          "boundary": "未取得7号楼独立平立剖、可靠单体实景及最新商户信息。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        },
+        {
+          "key": "park",
+          "label": "开放空间",
+          "title": "月湾公园、城市营地与滨河看台",
+          "oldUse": "原厂区道路、林木、工业构筑物及河岸",
+          "currentUse": "日常散步、草坪休息、活动演出、林下体育与滨河停留",
+          "location": "结合设计方景观鸟瞰、节点手稿和使用照片阅读；节点名称与分期总图不直接等同运营楼号。",
+          "mapStatus": "节点形态与使用可读",
+          "group": "landscape",
+          "refs": [
+            "O1",
+            "O2",
+            "O3"
+          ],
+          "facts": [
+            "月湾入口从金二车间立面提取拱形门架；入口之后连接林下道路与弧形台地。",
+            "龙门吊、活动草坪与厂房前的平台彼此邻接，临月牙河设置落日看台和吧台式停留边缘。",
+            "前场早期兼作临时停车，设计方说明全区完善后逐步恢复城市连接和公共活动。车辆照片应按其阶段阅读。"
+          ],
+          "readings": [
+            {
+              "title": "大草坪与小院落交替",
+              "text": "开阔草坪适合活动聚集，秘境花园与树下曲线路径适合小群体游走；两类空间让“逛园”和“到店”有不同节奏。"
+            },
+            {
+              "title": "把看景与观看活动的边缘做成可坐",
+              "text": "弧形台地坐凳面向草坪，临河吧台面向水景，龙门吊下设置连续停留界面；这些具体的坐与看关系比单独增加装置更直接影响停留。"
+            }
+          ],
+          "figures": [
+            "assets/101_jinyi/overall/overall_02.jpg",
+            "assets/101_jinyi/overall/overall_05.jpg",
+            "assets/101_jinyi/overall/overall_07.jpg",
+            "assets/101_jinyi/overall/overall_12.jpg",
+            "assets/101_jinyi/overall/overall_13.jpg",
+            "assets/101_jinyi/overall/overall_25_wb.jpg"
+          ],
+          "boundary": "来源包含设计与活动记录，未取得露营过夜、场地预订、体育培训及收费的完整规则。导视图标表达设计覆盖范围，不能单独证明收费设施落地。",
+          "subtitle": "",
+          "evidenceNote": "建筑图片与功能使用按所列时间和范围对照。"
+        }
+      ],
+      "programs": [
+        {
+          "title": "产业办公与总部配套",
+          "space": "产业创新中心及企业所在建筑，主要面对工作日使用者。",
+          "operation": "企业办公与咖啡、餐饮、会面及公园休息相邻，为日常使用提供另一类人群。",
+          "evidence": "2026年7月报道的60余家市场主体包括产业企业；租约、不同楼栋面积与收益未公开。",
+          "refs": [
+            "BO02",
+            "O3"
+          ]
+        },
+        {
+          "title": "机床与厂史参观",
+          "space": "大跨展馆、开放工业展品、前区厂史馆。",
+          "operation": "保留真实机器、工艺档案和生产者故事，可结合讲解与亲子认识工业。",
+          "evidence": "参观与展陈使用可核；统一门票、体验课收费及博物馆逐层平面未取得。",
+          "refs": [
+            "BO04",
+            "O8",
+            "BO02"
+          ]
+        },
+        {
+          "title": "书店与四层阅读",
+          "space": "2号楼PAGEONE：社交、亲子、安静阅读和分享的不同楼层。",
+          "operation": "1F更开放，2F偏亲子，3F偏深阅读，4F按平日学习与周末分享复用。",
+          "evidence": "这是2026经营采访，不是对2025建筑平面的内装标注；现状内装图未取得。",
+          "refs": [
+            "P02",
+            "P03",
+            "B2-PAGEONE"
+          ]
+        },
+        {
+          "title": "咖啡、简餐与庭院停留",
+          "space": "入口星巴克、一尺花园、M Stand、泰咖啡等。",
+          "operation": "不同店的前场、窗边、树下外摆和室内小场景接待不同停留时长。",
+          "evidence": "经营存在由品牌或记者核实；不据照片倒算座位数、翻台率或单店利润。",
+          "refs": [
+            "P01",
+            "P08",
+            "BO02",
+            "BO03"
+          ]
+        },
+        {
+          "title": "餐厅与草坪婚礼",
+          "space": "福慧轩餐饮空间及其庭院草坪。",
+          "operation": "经营者采访提到用餐与草坪婚礼场景组合，草坪在常规日和预约活动时有不同用途。",
+          "evidence": "可作为经营者披露的使用方向；未取得全年婚礼排期、场租或婚礼平面。",
+          "refs": [
+            "BO03"
+          ]
+        },
+        {
+          "title": "有顶手作市集",
+          "space": "14号楼室内公共通道、独立摊位和餐饮展售。",
+          "operation": "以首饰、穿戴、国风手作、潮玩等内容选摊，辅以餐饮与工业主题讲解。",
+          "evidence": "2026年3月三天活动样本；摊位费和主办方分成未公开。",
+          "refs": [
+            "P06"
+          ]
+        },
+        {
+          "title": "音乐、精酿与夜间内容",
+          "space": "龙门吊草坪演出，以及二十年音乐现场、乒乓+跳海SPACE等品牌内容。",
+          "operation": "公共草坪可在活动时设置临时舞台；常设品牌提供音乐、饮品与夜间停留。",
+          "evidence": "现场照片与2026入驻报道可核，票务与每天演出频次未核。乒乓Pingpong Space按音乐演出内容归类。",
+          "refs": [
+            "O2",
+            "BO05"
+          ]
+        },
+        {
+          "title": "草坪、营地与滨河休息",
+          "space": "城市营地草坪、河边落日看台、树下休憩地。",
+          "operation": "日常可散步、坐看水景或草坪休息；活动时利用开阔场地接待更多参与者。",
+          "evidence": "设计与使用照片可核；露营过夜、装备租赁和收费预约规则未取得。",
+          "refs": [
+            "O1",
+            "O2"
+          ]
+        },
+        {
+          "title": "林下体育与轻运动",
+          "space": "林下球场及连贯步行路径。",
+          "operation": "官方早期介绍包含林下球场，公园慢行与日常休息可在同一路线上衔接。",
+          "evidence": "未找到充分的常设收费体育培训证据，不能把开放运动设施直接计为已营收课程。",
+          "refs": [
+            "O2",
+            "O3"
+          ]
+        },
+        {
+          "title": "宠物到访与清洁服务",
+          "space": "公园活动区域、宠物友好茶饮店与门店外围服务点。",
+          "operation": "实地报道提到可携宠入店、拾便袋与粘毛器；ALINE导视覆盖泊狗、骑行等服务信息。",
+          "evidence": "服务耗材与活动边界是运营事实；导视设计图另标，不逐项推定已施工或收费。",
+          "refs": [
+            "BO04",
+            "BO03",
+            "BO01"
+          ]
+        },
+        {
+          "title": "导视、公共服务与后场",
+          "space": "树上标识、信息牌、停车与卫生间等服务体系。",
+          "operation": "用共同的图形语言解释活动、路径与基本服务，并在店铺之前给使用者清楚的信息。",
+          "evidence": "规划三期表中的9#配公厕及消防泵房、12#配安保监控室，属于配套定位，不代表整栋的全部经营功能。",
+          "refs": [
+            "BO01",
+            "O5"
+          ]
+        }
+      ],
+      "operatingSamples": [
+        {
+          "title": "同一活动提供不同参与方式",
+          "text": "2026年10月17日PAGEONE《铸剑》分享会的公开报名有免费听讲、94元书票和33元饮品票三个选项。它把内容参与与购买分开，同时让书与饮品承接消费；这里只作为一次真实活动样本，不作为长期价目。",
+          "refs": [
+            "P10"
+          ]
+        },
+        {
+          "title": "一间顶层空间，按时间切换用途",
+          "text": "天津日报2026年9月采访介绍4F约80㎡：工作日以点单入座承接学习办公，周末转换成分享空间。可借鉴预约、家具移动、声学与收纳的共同设计；报道没有提供完整家具改造图。",
+          "refs": [
+            "P03"
+          ]
+        },
+        {
+          "title": "围绕公园到访者补齐携宠细节",
+          "text": "宠物友好门店的拾便袋、粘毛器和门外服务点，需要在维护、清洁与排队边界中落地。ALINE的标牌与图标提供统一识别，实际服务仍以门店采访和现场管理为依据。",
+          "refs": [
+            "BO04",
+            "BO03",
+            "BO01"
+          ]
+        },
+        {
+          "title": "自有IP提供持续策划的框架",
+          "text": "运营方介绍以慢人生活节为核心内容，再按夏季与节假日组织主题活动。共享草坪、有顶厂房和小庭院可以承担不同规模与天气条件的内容，避免每次都从零搭建活动环境。",
+          "refs": [
+            "BO03",
+            "O2"
+          ]
+        },
+        {
+          "title": "把园区运营指标作为来源口径看",
+          "text": "2026年7月报道回述2025年游客超200万人次、营业额超1500万元，统计范围未展开；6月广播采访又采用商业开业以来的商户统计。两者不拼成连续增长曲线，也不以营业额替代净利润。",
+          "refs": [
+            "BO02",
+            "BO03"
+          ]
+        }
+      ],
+      "lessons": [
+        {
+          "title": "先留一条人人可用的公共路线",
+          "text": "沿海河连续慢行应保持清楚；把小店入口、外摆与共享草坪放在路线侧边，让没有消费的人同样有地方坐与看。"
+        },
+        {
+          "title": "用两个到访锚点串起中间的小节点",
+          "text": "入口采用稳定出品的日常服务，中段选择阅读、手作或轻运动内容，端头安排看水停留。不要按长度平均分配相同店铺。"
+        },
+        {
+          "title": "把有顶活动空间与草坪成对设置",
+          "text": "一个能避雨避风、可收纳移动家具的小场所，旁接公共草坪，可以支撑市集、课程、讲座和节庆切换。规模需按本项目客群测试。"
+        },
+        {
+          "title": "把门前空间当作经营条件一并设计",
+          "text": "停留座席、树荫、看护视线、排队、外摆、骑行和清洁点都需要可用位置。只给商户一个外观盒子，运营仍会回头占用公共路径。"
+        },
+        {
+          "title": "公共活动与付费产品各自讲清楚",
+          "text": "可设置免费参与、购买材料或产品、预约课程等不同方式，让使用者知道付费买到的是指导、装备、场地时段还是商品。价格和机制应由真实运营方确认。"
+        },
+        {
+          "title": "建筑预留经营变更，轻建条件另核",
+          "text": "2号楼可学的是独立公共路径、层间平台与临水界面；混凝土重建和工业修缮的成本工期不能当作轻型装配小屋参数。海河应另定标准模块、设备接口和可替换立面。"
+        }
+      ],
+      "unknowns": [
+        "覆盖全部22栋且更新到2026年11月的官方楼号—商户总导览，以及各栋最新出租、营业与公共开放边界。",
+        "2025三期正式原页的高清总平原件；本次收录媒体转载，细小文字不作精确量取。",
+        "7号楼独立平立剖和现租户；M Stand、KFC、跳海等品牌的可靠楼号与原建筑用途对照。",
+        "一尺花园品牌店名与AATU所称“苏联专家楼／会议室”的确切命名关系及平面边界。",
+        "PAGEONE后续内装更新图，以及屋顶、露台、草坪露营、体育活动的现行开放与收费规则。"
+      ],
+      "searchAliases": [
+        "津一park",
+        "津一公园",
+        "天津第一机床总厂",
+        "一机床",
+        "Jinyi Park"
+      ]
+    },
+    "number": 4
+  },
+  {
     "id": "91",
     "origin": "修订04新增",
     "status": "已建成；运营内容按来源年份阅读",
@@ -2165,7 +5107,7 @@
       }
     ],
     "cover": "assets/91_anjihood/arch_13.jpg",
-    "number": 4
+    "number": 5
   },
   {
     "id": "92",
@@ -2553,7 +5495,7 @@
       }
     ],
     "cover": "assets/92_guanxiang/guan_17.jpg",
-    "number": 5
+    "number": 6
   },
   {
     "id": "93",
@@ -2852,7 +5794,7 @@
       }
     ],
     "cover": "assets/93_mingmongkol/ming_23.jpg",
-    "number": 6
+    "number": 7
   },
   {
     "id": "94",
@@ -3246,7 +6188,7 @@
       }
     ],
     "cover": "assets/94_piggly/tourism_01.webp",
-    "number": 7
+    "number": 8
   },
   {
     "id": "95",
@@ -3572,7 +6514,7 @@
     "origin": "修订04新增",
     "collection": "存量小屋群",
     "relevance": "重点参考",
-    "number": 8
+    "number": 9
   },
   {
     "id": "96",
@@ -3870,7 +6812,7 @@
     "collection": "独立小屋群",
     "relevance": "重点参考",
     "cover": "assets/96_solso/log_66.jpg",
-    "number": 9
+    "number": 10
   },
   {
     "id": "97",
@@ -4169,7 +7111,7 @@
     "collection": "独立小屋群",
     "relevance": "重点参考",
     "cover": "assets/97_farmuniversal/official_49.jpg",
-    "number": 10
+    "number": 11
   },
   {
     "id": "98",
@@ -4519,7 +7461,7 @@
     ],
     "cover": "assets/98_tenshiba/bonbori_02.jpg",
     "origin": "修订04新增",
-    "number": 11
+    "number": 12
   },
   {
     "id": "99",
@@ -4845,7 +7787,7 @@
     ],
     "cover": "assets/99_ningle/hokkaido_01.jpg",
     "origin": "修订04新增",
-    "number": 12
+    "number": 13
   },
   {
     "id": "100",
@@ -5215,7 +8157,7 @@
     ],
     "cover": "assets/100_hisaya/arch_09.jpg",
     "origin": "修订04新增",
-    "number": 13
+    "number": 14
   },
   {
     "id": "32",
@@ -5433,7 +8375,7 @@
     "unitLabel": "11座木构盒子",
     "cover": "assets/32_jiangnan/news_04.jpg",
     "themes": [],
-    "number": 14
+    "number": 15
   },
   {
     "id": "49",
@@ -5998,7 +8940,7 @@
     "unitLabel": "4栋商业建筑",
     "cover": "assets/49_home_park/49_homepark_030.jpg",
     "themes": [],
-    "number": 15
+    "number": 16
   },
   {
     "id": "37",
@@ -6403,7 +9345,7 @@
     "unitLabel": "林中多栋小店与茶室",
     "cover": "assets/37_zaoyuan/zaoyuan_08.jpg",
     "themes": [],
-    "number": 16
+    "number": 17
   },
   {
     "id": "43",
@@ -6575,7 +9517,7 @@
     "unitLabel": "10座经营亭",
     "cover": "assets/43_guitang/43_guitang_007.webp",
     "themes": [],
-    "number": 17
+    "number": 18
   },
   {
     "id": "50",
@@ -7043,7 +9985,7 @@
     "unitLabel": "21栋独栋商业",
     "cover": "assets/50_luoshan_valley/50_luoshan_003.jpg",
     "themes": [],
-    "number": 18
+    "number": 19
   },
   {
     "id": "42",
@@ -7419,7 +10361,7 @@
     "unitLabel": "12个小单元",
     "cover": "assets/42_clouds/42_clouds_025.jpg",
     "themes": [],
-    "number": 19
+    "number": 20
   },
   {
     "id": "63",
@@ -7692,7 +10634,7 @@
     "collection": "线性小建筑",
     "unitLabel": "3栋公园小建筑",
     "themes": [],
-    "number": 20
+    "number": 21
   },
   {
     "id": "03",
@@ -7993,7 +10935,7 @@
     "origin": "首版保留",
     "unitLabel": "11座小建筑",
     "themes": [],
-    "number": 21
+    "number": 22
   },
   {
     "id": "04",
@@ -8307,7 +11249,7 @@
     "origin": "首版保留",
     "unitLabel": "模数木亭组",
     "themes": [],
-    "number": 22
+    "number": 23
   },
   {
     "id": "16",
@@ -8648,7 +11590,7 @@
     "origin": "首版保留",
     "unitLabel": "2座服务亭",
     "themes": [],
-    "number": 23
+    "number": 24
   },
   {
     "english": "Prince’s Bay Garden City VILLA Street Improvement",
@@ -9011,7 +11953,7 @@
     "origin": "首版保留",
     "unitLabel": "3个小商业盒子",
     "themes": [],
-    "number": 24
+    "number": 25
   },
   {
     "english": "Qingtai Market",
@@ -9335,7 +12277,7 @@
     "origin": "首版保留",
     "unitLabel": "线性开敞亭组",
     "themes": [],
-    "number": 25
+    "number": 26
   },
   {
     "english": "XPORT Pocket Park",
@@ -9594,7 +12536,7 @@
     "origin": "首版保留",
     "unitLabel": "3组展售单元",
     "themes": [],
-    "number": 26
+    "number": 27
   },
   {
     "id": "44",
@@ -10160,7 +13102,7 @@
     "unitLabel": "12节点体系",
     "cover": "assets/44_shenzhen_box/44_box_pills_003.jpg",
     "themes": [],
-    "number": 27
+    "number": 28
   },
   {
     "id": "46",
@@ -10491,7 +13433,7 @@
     "unitLabel": "11驿站体系",
     "cover": "assets/46_jinji_lake/46_jinji_multi_009.jpg",
     "themes": [],
-    "number": 28
+    "number": 29
   },
   {
     "id": "34",
@@ -10685,7 +13627,7 @@
     "unitLabel": "29栋历史木屋",
     "cover": "assets/34_hinoki/hinoki_29.jpg",
     "themes": [],
-    "number": 29
+    "number": 30
   },
   {
     "id": "53",
@@ -10874,7 +13816,7 @@
     "collection": "独立小屋群",
     "unitLabel": "5栋小建筑",
     "themes": [],
-    "number": 30
+    "number": 31
   },
   {
     "id": "55",
@@ -11088,7 +14030,7 @@
     "collection": "线性小建筑",
     "unitLabel": "9栋木建筑",
     "themes": [],
-    "number": 31
+    "number": 32
   },
   {
     "id": "27",
@@ -11405,7 +14347,7 @@
     "origin": "首版保留",
     "unitLabel": "5栋独立店铺",
     "themes": [],
-    "number": 32
+    "number": 33
   },
   {
     "id": "58",
@@ -11754,7 +14696,7 @@
     "collection": "独立小屋群",
     "unitLabel": "4个功能亭",
     "themes": [],
-    "number": 33
+    "number": 34
   },
   {
     "id": "59",
@@ -12038,7 +14980,7 @@
     "collection": "独立小屋群",
     "unitLabel": "首期10栋工作室小屋",
     "themes": [],
-    "number": 34
+    "number": 35
   },
   {
     "id": "57",
@@ -12341,7 +15283,7 @@
     "collection": "独立小屋群",
     "unitLabel": "公共区食品小屋群",
     "themes": [],
-    "number": 35
+    "number": 36
   },
   {
     "origin": "修订03新增",
@@ -12672,7 +15614,7 @@
       "transfer": "海河可采用一个公共雨棚、数个固定小店和一块可清空活动场，节假日扩展经营，平日回归公园。重点借鉴时段共用与后台配套，不复制地下商业。",
       "seasonality": "天津冬季宜把热饮、手作与小型展览放入可封闭小屋；市集按季调整频次和开放时段。此处为海河推演，需另行核定防风、消防与许可条件。"
     },
-    "number": 36
+    "number": 37
   },
   {
     "origin": "修订03新增",
@@ -13022,7 +15964,7 @@
       "transfer": "海河可把一小段水路、沙坑、种植台和家长休息点组成一个可运营单元。课程人员、清洁和器械维护需计入日常成本；咖啡消费不能替代安全看护。",
       "seasonality": "夏季玩水与遮荫，春秋种植和自然观察；天津冬季应关闭并排空不适用的水设施，改用干式探索或室内手作。冬季模式属于本次规划建议。"
     },
-    "number": 37
+    "number": 38
   },
   {
     "id": "73",
@@ -13266,7 +16208,7 @@
       "seasonality": "上海夜间球场照片说明灯光能够延长使用时段，但这不等于天津冬季室外课程可常态运行。海河需要把冬季小班体能或社群活动移入可采暖的小空间，室外租赁与草坪活动按天气开放。"
     },
     "cover": "assets/73_qiantan/news_06.jpg",
-    "number": 38
+    "number": 39
   },
   {
     "id": "74",
@@ -13510,7 +16452,7 @@
       "seasonality": "夏季可将座席扩展到树下庭院，雨天回到室内；这属于由其空间结构推导的使用建议。天津应预留冬季日照座席、入口防风和独立采暖区，不能仅靠大玻璃与全年外摆维持经营。"
     },
     "cover": "assets/74_limcafe/mooool_05.jpg",
-    "number": 39
+    "number": 40
   },
   {
     "id": "75",
@@ -13736,7 +16678,7 @@
       "seasonality": "历史资料记录夏冬不同时长和特定夜场，说明时段调整本身就是运营工具。天津冬季应依据结冰、降雪和路面湿滑暂停骑行，将室内技能讲解、装备维护及社群活动作为补充，而非保证全年满负荷收费。"
     },
     "cover": "assets/75_velomountain/gallery_03.jpg",
-    "number": 40
+    "number": 41
   },
   {
     "id": "76",
@@ -13954,7 +16896,7 @@
       "seasonality": "新加坡全年气候与天津不同，不能把当地年营业天数直接用于收入测算。海河需按大风、雨雪、树木落叶及设备结冰制定停开条件，冬季可转为地面挑战和短时自然教育活动。"
     },
     "cover": "assets/76_forestadventure/map_01.webp",
-    "number": 41
+    "number": 42
   },
   {
     "id": "79",
@@ -14228,7 +17170,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/79_xiaohangkeng/moool_54.jpg",
-    "number": 42
+    "number": 43
   },
   {
     "id": "80",
@@ -14527,7 +17469,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/80_zaohe/zaohe_03.jpg",
-    "number": 43
+    "number": 44
   },
   {
     "id": "81",
@@ -14902,7 +17844,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/81_tangshan/ata_02.jpg",
-    "number": 44
+    "number": 45
   },
   {
     "id": "82",
@@ -15098,7 +18040,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/82_pica/stay_11.jpg",
-    "number": 45
+    "number": 46
   },
   {
     "id": "83",
@@ -15390,7 +18332,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/83_thefarm/farm_06.webp",
-    "number": 46
+    "number": 47
   },
   {
     "id": "84",
@@ -15670,7 +18612,7 @@
     "collection": "公园运营场景",
     "unitLabel": "营地与自然体验",
     "cover": "assets/84_hakuba/kuma_01.jpg",
-    "number": 47
+    "number": 48
   },
   {
     "id": "85",
@@ -15929,7 +18871,7 @@
     "collection": "公园运营场景",
     "unitLabel": "运营案例",
     "cover": "assets/85_jinfang/jinfang_01.jpg",
-    "number": 48
+    "number": 49
   },
   {
     "id": "88",
@@ -16136,7 +19078,7 @@
     "collection": "公园运营场景",
     "unitLabel": "运营案例",
     "cover": "assets/88_jingjai/central_06.webp",
-    "number": 49
+    "number": 50
   },
   {
     "id": "89",
@@ -16367,7 +19309,7 @@
     "collection": "公园运营场景",
     "unitLabel": "运营案例",
     "cover": "assets/89_bryant/hi_13.jpg",
-    "number": 50
+    "number": 51
   },
   {
     "id": "90",
@@ -16579,6 +19521,6 @@
     "collection": "公园运营场景",
     "unitLabel": "运营案例",
     "cover": "assets/90_minami/park_01.jpg",
-    "number": 51
+    "number": 52
   }
 ]
